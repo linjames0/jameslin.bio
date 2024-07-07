@@ -1,0 +1,40 @@
+.mainBox {
+    /* height: 80vh; */
+    width: 40%;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 10%;
+  
+    margin: 20px;
+    padding: 20px;
+
+    border-left: rgb(59, 94, 220) 5px solid;
+}
+  
+.postTitle {
+    font-family: "EB Garamond", serif;
+    font-weight: 400;
+    font-size: 1.2em;
+  
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+  
+.postDate {
+    font-family: "EB Garamond", serif;
+    color: rgb(120, 120, 120);
+    font-style: italic;
+  
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+  
+.postTitle:hover {
+    color: rgb(24, 65, 214);
+    background-color: transparent;
+    
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 2px;
+}

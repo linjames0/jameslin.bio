@@ -1,0 +1,57 @@
+.mainBox {
+    /* height: 80vh; */
+    width: 40%;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 10%;
+  
+    margin: 20px;
+    padding: 20px;
+
+    border-left:rgb(59, 94, 220) 5px solid;
+}
+
+.paddingBox {
+    bottom: 0;
+    padding-bottom: 20vh;
+}
+.postTitle {
+    font-family: "EB Garamond", serif;
+    font-weight: 400;
+    font-size: 2.5em;
+
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+  
+.postDate {
+    color: rgb(120, 120, 120);
+
+    font-family: "EB Garamond", serif;
+    font-style: italic;
+    font-weight: 300;
+    font-size: 1em;
+    
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+  
+/* .backlink {
+    font-family: "EB Garamond", serif;
+    font-size: 1em;
+
+    margin-top: 0px;
+    margin-bottom: 0px;
+} */
+
+.quote {
+    font-family: "EB Garamond", serif;
+    font-weight: 400;
+  
+
+    margin-bottom: 0px;
+    padding-left: 10px;
+  
+    border-left: 2px solid rgb(135, 185, 241);
+}

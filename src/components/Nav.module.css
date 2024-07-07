@@ -1,0 +1,32 @@
+.navBox {
+    height: 80vh;
+    width: 10%;
+    position: absolute;
+    right: 70%;
+    top: 12.3%;
+  
+    margin: 20px;
+  }
+
+.navTitle {
+    font-family: "EB Garamond", serif;
+    font-weight: 500;
+    font-size: 1.3em;
+
+}
+  
+.navSubtitle {
+    font-family: "EB Garamond", serif;
+    font-weight: 400;
+    font-size: 1.1em;
+}
+
+.currentPage {
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 2px;
+
+    padding: 3px 0 3px 0;
+}
+
+  

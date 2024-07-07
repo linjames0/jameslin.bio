@@ -2,7 +2,7 @@ import styles from "../post.module.css";
 import Nav from "../../../components/Nav";
 import Head from "../../../components/Head";
 
-export default function Focus() {
+export default function Strange() {
   return (
     <html>
         <Head />

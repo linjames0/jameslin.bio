@@ -5,9 +5,9 @@ import Head from "../components/Head";
 export default function Page() {
   return (
     <html>
-        <head>
+        {/* <head>
             <link rel="icon" href="favicon.ico" />
-        </head>
+        </head> */}
         <Head />
         <body className={styles.body}>
             <Nav />

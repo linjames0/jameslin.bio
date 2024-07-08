@@ -56,8 +56,7 @@ export default function Focus() {
                     Thoughts catalyzed by feedback from Adam Majmudar, Sigil Wen, and Will DePue
                 </i>
             </div>
-            <div className={styles.paddingBox}>
-            </div>
+            <div className={styles.paddingBox}></div>
         </body>
     </html>
   );

@@ -12,7 +12,7 @@ export default function Attractive() {
                 <h1 className={styles.postTitle}>Attractive</h1>
                 <h3 className={styles.postDate}>March 18th, 2024</h3>
                 <p>
-                    Every so often, I come across people who I find very attractive by virtue of their personality and character. These are people I’d love to be friends with. The kinds of people who, secure in their own abilities, have the freedom to live life on their own terms.
+                    Every so often, I come across people who I find attractive by virtue of their personality and character, people whose presence   carries a magnetic weight. These are people I’d love to be friends with. The kinds of people who, secure in their own abilities, have the freedom to live life on their own terms.
                 </p>
                 <p style={{marginBottom: 0}}>
                     Specifically, people who…
@@ -25,7 +25,7 @@ export default function Attractive() {
                         <li>have passion for a craft</li>
                         <li>listen and observe, noticers of small details</li>
                         <li>reciprocate but aren’t transactional</li>
-                        <li>consent to a little whimsy every while-or-so</li>
+                        <li><a href="https://www.startingfromnix.com/p/falling-into-life">consent to a little whimsy every while-or-so</a></li>
                     </ul>
                 </p>
             </div>

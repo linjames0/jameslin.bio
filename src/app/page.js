@@ -12,7 +12,7 @@ export default function Page() {
                 <h1 className={styles.title}>James Lin</h1>
                 <h3 className={styles.subtitle}>About me</h3>
                 <p>
-                    I‘m interested in synthetic biology and machine learning from an applied perspective. I'm currently developing expansion microscopy tools for brain-mapping at the <a href="https://synthneuro.org/">Boyden Lab</a>.
+                    I‘m interested in synthetic biology and machine learning from an applied perspective. Come fall, I'll be developing expansion microscopy tools for brain-mapping at the <a href="https://synthneuro.org/">Boyden Lab</a>.
                 </p>
                 <p>
                     In my free time, I enjoy reading, climbing, sketching, and observing the world around me.

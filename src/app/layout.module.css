@@ -1,0 +1,88 @@
+.mainBox {
+    width: 40%;
+
+    position: relative;
+    left: 30%;
+    top: 15%;
+
+    padding: 20px;
+    
+    border-left: rgb(59, 94, 220) 5px solid;
+}
+
+.paddingBox {
+    bottom: 0;
+    padding-bottom: 20vh;
+}
+
+/* title */
+.markdown h1 {
+    font-family: "EB Garamond", serif;
+    font-weight: 400;
+    font-size: 2.5em;
+
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+/* subtitle */
+.markdown h2 {
+    font-family: "EB Garamond", serif;
+    font-weight: 600;
+    font-size: 1.1em;
+
+    line-height: 0.5;
+}
+
+/* date */
+.markdown h3 {
+    color: rgb(120, 120, 120);
+
+    font-family: "EB Garamond", serif;
+    font-style: italic;
+    font-weight: 300;
+    font-size: 1em;
+    
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.markdown p {
+    margin-bottom: 0px;
+}
+
+.markdown ul {
+    line-height: 1.5em;
+    margin-bottom: 0px;
+}
+
+.markdown blockquote {
+    font-family: "EB Garamond", serif;
+    font-weight: 400;
+  
+
+    margin-bottom: 0px;
+    margin-left: 0px;
+    padding-left: 10px;
+  
+    border-left: 2px solid rgb(135, 185, 241);
+}
+
+/* .backlink {
+    font-family: "EB Garamond", serif;
+    font-size: 1em;
+
+    margin-top: 0px;
+    margin-bottom: 0px;
+} */
+
+
+@media (max-width: 768px) {
+    .mainBox {
+        border-left: none;
+        width: 90%;
+        left: 5%;
+
+        padding: 0px;
+    }
+}

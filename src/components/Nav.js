@@ -14,7 +14,7 @@ export default function Nav() {
                 <h3 className={styles.navTitle}>Navigation</h3>            
                 <Link href="/" className={`${pathname === '/' ? styles.currentPage : ''} ${styles.navSubtitle}`}>Home</Link>
                 <br />
-                <Link href="/writing" className={`${pathname === '/writing' || pathname.includes('posts') ? styles.current : ''} ${styles.navSubtitle}`}>Writing</Link>
+                <Link href="/writing" className={`${pathname === '/writing' || pathname.includes('posts') ? styles.currentPage : ''} ${styles.navSubtitle}`}>Writing</Link>
                 <br />
                 {/* <Link href="/art" className={`${pathname === '/art' ? styles.current : ''} ${styles.navSubtitle}`}>Art</Link>
                 <br />

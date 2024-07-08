@@ -16,8 +16,7 @@ The goal is not stochastic schmoozing, but instead directed energy on hard probl
 
 Focus is a prerequisite for great work. This is because most hard problems are soluble in deep effort, but insoluble in shallow attempts. Focus is the process of refining merely good ideas into great ideas.
 
-> Great work usually entails spending what would seem to most people an unreasonable amount of time on a problem.\
-— Paul Graham
+> Great work usually entails spending what would seem to most people an unreasonable amount of time on a problem — Paul Graham
 
 Focus and sacrifice are two sides of the same coin. Historically, I say no to 40% of opportunities. This should be 99%.
 

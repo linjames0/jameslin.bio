@@ -24,6 +24,7 @@ export default function PostList() {
             <p className={styles.postDate}>
                 October 25, 2022
             </p>
+            <hr />
         </div>
     );
 }

@@ -44,7 +44,7 @@ export default function Focus() {
                     Focus and sacrifice are two sides of the same coin. Historically, I say no to 40% of opportunities. This should be 99%.
                 </p>
                 <p>
-                    Buffett’s “2 List” practice was an exceptionally clarifying exercise. I cut projects, podcasts, MMA, social media, social events, meetings, and misc. It hurts to eliminate activities I enjoy, but it’s the price of being more intentional and selective.
+                    <a href="https://jamesclear.com/buffett-focus">Buffett’s “2 List”</a> practice was an exceptionally clarifying exercise. I cut projects, podcasts, MMA, social media, social events, meetings, and misc. It hurts to eliminate activities I enjoy, but it’s the price of being more intentional and selective.
                 </p>
                 <p>
                     Over time, I have gotten more comfortable turning down invites. I think this is a result of becoming more secure in my abilities: I don’t need validation through association. I know what I’m missing out on and I don’t care. It’s not a priority.

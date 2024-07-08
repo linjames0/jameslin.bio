@@ -1,14 +1,12 @@
 .mainBox {
-    /* height: 80vh; */
     width: 40%;
-    position: relative;
-    left: 50%;
-    transform: translateX(-50%);
-    top: 10%;
-  
-    margin: 20px;
-    padding: 20px;
 
+    position: absolute;
+    left: 30%;
+    top: 15%;
+
+    padding: 20px;
+    
     border-left: rgb(59, 94, 220) 5px solid;
 }
   
@@ -37,4 +35,14 @@
     text-decoration: underline;
     text-decoration-thickness: 2px;
     text-underline-offset: 2px;
+}
+
+@media (max-width: 768px) {
+    .mainBox {
+        border-left: none;
+        width: 90%;
+        left: 5%;
+
+        padding: 0px;
+    }
 }

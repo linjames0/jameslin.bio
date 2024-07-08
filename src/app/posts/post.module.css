@@ -1,21 +1,15 @@
 .mainBox {
-    /* height: 80vh; */
     width: 40%;
-    position: relative;
-    left: 50%;
-    transform: translateX(-50%);
-    top: 10%;
-  
-    margin: 20px;
+
+    position: absolute;
+    left: 30%;
+    top: 15%;
+
     padding: 20px;
-
-    border-left:rgb(59, 94, 220) 5px solid;
+    
+    border-left: rgb(59, 94, 220) 5px solid;
 }
 
-.paddingBox {
-    bottom: 0;
-    padding-bottom: 20vh;
-}
 .postTitle {
     font-family: "EB Garamond", serif;
     font-weight: 400;
@@ -54,4 +48,19 @@
     padding-left: 10px;
   
     border-left: 2px solid rgb(135, 185, 241);
+}
+
+.paddingBox {
+    bottom: 0;
+    padding-bottom: 20vh;
+}
+
+@media (max-width: 768px) {
+    .mainBox {
+        border-left: none;
+        width: 90%;
+        left: 5%;
+
+        padding: 0px;
+    }
 }

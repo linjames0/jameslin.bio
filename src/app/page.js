@@ -18,7 +18,7 @@ export default function Page() {
                     In my free time, I enjoy reading, climbing, sketching, and observing the world around me.
                 </p>
                 <p>
-                    I am supported by <a href="https://www.magnificentgrants.com/">Magnificent Grants</a> and <a href="https://www.mercatus.org/emergent-ventures">Emergent Ventures</a>.
+                    I'm supported by <a href="https://www.magnificentgrants.com/">Magnificent Grants</a> and <a href="https://www.mercatus.org/emergent-ventures">Emergent Ventures</a>.
                 </p>
                 <h3 className={styles.subtitle}>This website is my digital nucleus</h3>
                 <p style={{marginBottom: 0}}>

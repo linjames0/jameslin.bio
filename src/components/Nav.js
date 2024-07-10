@@ -6,6 +6,17 @@ import styles from "./Nav.module.css";
 
 export default function Nav() {
     const pathname = usePathname();
+    const posts = [
+        'young',
+        'attractive',
+        'focus',
+        'strange'
+    ]
+
+    const postActive = () => {
+        const currentSlug = pathname.split('/')[1];
+        return posts.includes(currentSlug);
+    }
 
     return (
         <div className={styles.navBox}>
@@ -14,7 +25,7 @@ export default function Nav() {
                 <h3 className={styles.navTitle}>Navigation</h3>            
                 <Link href="/" className={`${pathname === '/' ? styles.currentPage : ''} ${styles.navSubtitle}`}>Home</Link>
                 <br />
-                <Link href="/writing" className={`${pathname === '/writing' || pathname.includes('posts') ? styles.currentPage : ''} ${styles.navSubtitle}`}>Writing</Link>
+                <Link href="/writing" className={`${pathname === '/writing' || postActive() ? styles.currentPage : ''} ${styles.navSubtitle}`}>Writing</Link>
                 <br />
                 {/* <Link href="/art" className={`${pathname === '/art' ? styles.current : ''} ${styles.navSubtitle}`}>Art</Link>
                 <br />

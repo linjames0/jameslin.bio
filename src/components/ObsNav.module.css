@@ -1,0 +1,123 @@
+.obsNavBox {
+    height: 5vh;
+    width: 100%;
+
+    position: absolute;
+    top: -7vh;
+    left: 0%;
+
+    margin-left: 3px;
+    padding-left: 20px;
+    
+    /* border-left: 3px solid rgb(59, 94, 220); */
+    border-top: 1px solid rgb(128, 128, 128);
+    border-bottom: 1px solid rgb(128, 128, 128);
+
+    display: flex;
+    justify-content: flex-start;
+    align-items: stretch;
+    gap: 20px;
+}
+
+.obsContentBox {
+    width: 100%;
+
+    position: absolute;
+    top: 0vh;
+    left: 0%;
+
+    padding: 5px 20px;
+    margin-left: -3px;
+    /* border: 3px solid rgb(59, 94, 220); */
+    
+    border-left: 3px solid rgb(59, 94, 220);
+}
+
+.paddingBox {
+    bottom: 0;
+    padding-bottom: 40px;
+}
+
+.title {
+    font-family: "EB Garamond", serif;
+    font-weight: 400;
+    font-size: 2.5em;
+
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.subtitle {
+    font-family: "EB Garamond", serif;
+    font-weight: 500;
+    font-size: 1.3em;
+}
+
+.navSubtitle {
+    font-family: "EB Garamond", serif;
+    font-weight: 400;
+    font-size: 1.1em;
+}
+
+.obsButton {
+    font-family: "EB Garamond", serif;
+    font-weight: 500;
+    font-size: 1.1em;
+
+    background-color: rgb(255, 255, 255);
+    color: rgb(164, 164, 164);
+
+    border: none;
+    background-origin: 0px;
+
+    padding: 5px 0px;
+}
+
+.obsButton:hover {
+    color: rgb(0, 0, 0)
+}
+
+.city {
+    font-family: "EB Garamond", serif;
+}
+
+.activeTab {
+    color: rgb(0, 0, 0);
+}
+
+.obsContentBox blockquote {
+    font-family: "EB Garamond", serif;
+    font-weight: 400;
+
+    margin-bottom: 0px;
+    margin-left: 0px;
+    padding: 5px 10px;
+  
+    border-left: 2px solid rgb(135, 185, 241);
+}
+
+@media (max-width: 768px) {
+    .obsNavBox {
+        border-top: 1px solid rgb(128, 128, 128);
+        border-bottom: 1px solid rgb(128, 128, 128);
+
+        top: 0vh;
+        
+        padding-left: 0px;
+        margin-top: 10px;
+    }
+
+    .obsContentBox {
+        top: 5vh;
+
+        padding: 0px;
+        margin-top: 20px;
+
+        border-left: none;
+    }
+
+    .obsButton {
+        padding: 0px;
+    }
+}
+  

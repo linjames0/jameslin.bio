@@ -3,6 +3,8 @@ import path from 'path';
 import { remark } from 'remark';
 import html from 'remark-html';
 
+import styles from '../layout.module.css';
+
 export async function generateStaticParams() {
   const files = fs.readdirSync(path.join(process.cwd(), 'markdown'));
 
@@ -24,7 +26,7 @@ export default async function MarkdownPage({ params }) {
   const contentHtml = await getMarkdownContent(slug);
 
   return (
-    <div>
+    <div className={styles.markdown}>
       <div dangerouslySetInnerHTML={{ __html: contentHtml }} />
     </div>
   );

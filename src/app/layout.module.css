@@ -3,11 +3,13 @@
 
     position: relative;
     left: 30%;
-    top: 15%;
+    top: 15vh;
 
-    padding: 20px;
+    margin-top: 15px;
+    padding: 5px 20px;
     
     border-left: rgb(59, 94, 220) 3px solid;
+    /* border: 5px solid rgb(59, 94, 220); */
 }
 
 .paddingBox {
@@ -59,7 +61,6 @@
 .markdown blockquote {
     font-family: "EB Garamond", serif;
     font-weight: 400;
-  
 
     margin-bottom: 0px;
     margin-left: 0px;
@@ -67,15 +68,6 @@
   
     border-left: 2px solid rgb(135, 185, 241);
 }
-
-/* .backlink {
-    font-family: "EB Garamond", serif;
-    font-size: 1em;
-
-    margin-top: 0px;
-    margin-bottom: 0px;
-} */
-
 
 @media (max-width: 768px) {
     .mainBox {

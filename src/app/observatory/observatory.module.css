@@ -1,40 +1,26 @@
-.mainBox {
-    /* height: 80vh; */
-    width: 40%;
-    position: relative;
-    left: 50%;
-    transform: translateX(-50%);
-    top: 10%;
-  
-    border-left: rgb(59, 94, 220) 5px solid;
-  
-    margin: 20px;
-    padding: 20px;
-  }
-  
-  .title {
+.title {
     font-family: "EB Garamond", serif;
     font-weight: 400;
     font-size: 2.5em;
-  
+
     margin-top: 0px;
     margin-bottom: 0px;
-  }
-  
-  .subtitle {
+}
+
+.subtitle {
     font-family: "EB Garamond", serif;
     font-weight: 500;
     font-size: 1.3em;
-  }
-  
-  .quote {
+}
+
+.quote {
     font-family: "EB Garamond", serif;
     font-weight: 400;
-  
-    margin-top: 0px;
+
+
     margin-bottom: 0px;
-    padding-left: 20px;
-  
-    border-left: 5px solid rgb(59, 94, 220);
-  }
+    padding-left: 10px;
+
+    border-left: 2px solid rgb(135, 185, 241);
+}
   

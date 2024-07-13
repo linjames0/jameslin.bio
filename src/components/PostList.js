@@ -3,7 +3,7 @@ import styles from "./PostList.module.css";
 
 export default function PostList() {
     return (
-        <div className={styles.mainBox}>
+        <div>
             <hr />
             <Link href="/young" className={styles.postTitle}>Your strength as a young person</Link>
             <p className={styles.postDate}>

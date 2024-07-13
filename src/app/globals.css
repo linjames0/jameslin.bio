@@ -3,9 +3,7 @@ body {
     height: 100vh;
     width: 100%;
     margin: 0 auto;
-    position: relative;
-
-    align-items: center;
+    position: absolute;
 }
 
 p {
@@ -29,10 +27,4 @@ a:hover {
 
     padding: 3px 0 3px 0;
     background-color: rgb(59, 94, 220);
-}
-
-@media (max-width: 768px) {
-    body {
-        justify-content: center;
-    }
 }

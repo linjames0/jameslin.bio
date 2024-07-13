@@ -28,19 +28,21 @@ export default function Nav() {
                 <Link href="/writing" className={`${pathname === '/writing' || postActive() ? styles.currentPage : ''} ${styles.navSubtitle}`}>Writing</Link>
                 <br />
                 {/* <Link href="/art" className={`${pathname === '/art' ? styles.current : ''} ${styles.navSubtitle}`}>Art</Link>
-                <br />
-                <Link href="/observatory" className={`${pathname === '/observatory' ? styles.current : ''} ${styles.navSubtitle}`}>Observatory</Link>
                 <br /> */}
-                {/* <Link href="/influences" className={`${pathname === '/influences' ? styles.current : ''} ${styles.navSubtitle}`}>Influences</Link>
+                {/* <Link href="/observatory" className={`${pathname === '/observatory' ? styles.currentPage : ''} ${styles.navSubtitle}`}>Observatory</Link> */}
                 <br />
-                <Link href="/misc" className={`${pathname === '/misc' ? styles.current : ''} ${styles.navSubtitle}`}>Misc</Link>
+                {/* <Link href="/influences" className={`${pathname === '/influences' ? styles.currentPage : ''} ${styles.navSubtitle}`}>Influences</Link>
+                <br />
+                <Link href="/misc" className={`${pathname === '/misc' ? styles.currentPage : ''} ${styles.navSubtitle}`}>Misc</Link>
                 <br /> */}
             </div>
 
             <div className={styles.mobileNav}>         
                 <Link href="/" className={`${pathname === '/' ? styles.currentPage : ''} ${styles.navSubtitle}`}>Home</Link>
                 <br />
-                <Link href="/writing" className={`${pathname === '/writing' || pathname.includes('posts') ? styles.currentPage : ''} ${styles.navSubtitle}`}>Writing</Link>
+                <Link href="/writing" className={`${pathname === '/writing' || postActive() ? styles.currentPage : ''} ${styles.navSubtitle}`}>Writing</Link>
+                <br />
+                {/* <Link href="/observatory" className={`${pathname === '/observatory' ? styles.currentPage : ''} ${styles.navSubtitle}`}>Observatory</Link> */}
             </div>
 
         </div>

@@ -29,7 +29,7 @@ export default function Nav() {
                 <br />
                 {/* <Link href="/art" className={`${pathname === '/art' ? styles.current : ''} ${styles.navSubtitle}`}>Art</Link>
                 <br /> */}
-                {/* <Link href="/observatory" className={`${pathname === '/observatory' ? styles.currentPage : ''} ${styles.navSubtitle}`}>Observatory</Link> */}
+                <Link href="/observatory" className={`${pathname === '/observatory' ? styles.currentPage : ''} ${styles.navSubtitle}`}>Observatory</Link>
                 <br />
                 {/* <Link href="/influences" className={`${pathname === '/influences' ? styles.currentPage : ''} ${styles.navSubtitle}`}>Influences</Link>
                 <br />
@@ -42,7 +42,7 @@ export default function Nav() {
                 <br />
                 <Link href="/writing" className={`${pathname === '/writing' || postActive() ? styles.currentPage : ''} ${styles.navSubtitle}`}>Writing</Link>
                 <br />
-                {/* <Link href="/observatory" className={`${pathname === '/observatory' ? styles.currentPage : ''} ${styles.navSubtitle}`}>Observatory</Link> */}
+                <Link href="/observatory" className={`${pathname === '/observatory' ? styles.currentPage : ''} ${styles.navSubtitle}`}>Observatory</Link>
             </div>
 
         </div>

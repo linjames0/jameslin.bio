@@ -2,45 +2,44 @@
 
 import styles from './ObsNav.module.css';
 
-function openCity(evt, cityName) {
-    console.log(cityName);
-    var i, x, tablinks;
-    x = document.getElementsByClassName(styles.city);
+function openTab(evt, tabName) {
+    var i, x, tabLinks;
+    x = document.getElementsByClassName(styles.tab);
 
     for (i = 0; i < x.length; i++) {
         x[i].style.display = "none";
     }
-    tablinks = document.getElementsByClassName(styles.obsButton);
-    console.log(tablinks);
-    for (i = 0; i < tablinks.length; i++) {
-        tablinks[i].className = tablinks[i].className.replace("activeTab", "");
+    tabLinks = document.getElementsByClassName(styles.obsButton);
+    console.log(tabLinks);
+    for (i = 0; i < tabLinks.length; i++) {
+        tabLinks[i].className = tabLinks[i].className.replace("activeTab", "");
     }
-    document.getElementById(cityName).style.display = "block";
+    document.getElementById(tabName).style.display = "block";
     evt.currentTarget.className += ` ${styles.activeTab}`;
 }
 
-export default function ObsNav() {
+export default function ObsNav( { children } ) {
     return (
         <div>
             <div className={styles.obsNavBox}>
-                <button className={`${styles.obsButton} ${styles.activeTab}`} onClick={(event) => openCity(event, 'London')}>Quotes</button>
-                <button className={`${styles.obsButton}`} onClick={(event) => openCity(event, 'Paris')}>Paris</button>
-                <button className={`${styles.obsButton}`} onClick={(event) => openCity(event, 'Tokyo')}>Tokyo</button>
+                <button className={`${styles.obsButton} ${styles.activeTab}`} onClick={(event) => openTab(event, 'Quotes')}>Quotes</button>
+                <button className={`${styles.obsButton}`} onClick={(event) => openTab(event, 'Paris')}>Art</button>
+                <button className={`${styles.obsButton}`} onClick={(event) => openTab(event, 'Tokyo')}>Tributes</button>
             </div>
             <div className={styles.obsContentBox}>
-                <div id="London" className={styles.city}>
-                    <h1 className={styles.title}>Quotes</h1>
-                    <blockquote>Those who lack the courage will always find a philosophy to justify it</blockquote>
+                <div id="Quotes" className={styles.tab}>
+                    <>{children}</>
                 </div>   
-                <div id="Paris" className={styles.city} style={{display: 'none'}}>
-                    <h1 className={styles.title}>Paris</h1>
-                    <p>Paris is the capital of France.</p>
+                <div id="Paris" className={styles.tab} style={{display: 'none'}}>
+                    <h1 className={styles.title}>Art</h1>
+                    <p>In development...</p>
                 </div>
-                <div id="Tokyo" className={styles.city} style={{display: 'none'}}>
-                    <h1 className={styles.title}>Tokyo</h1>
-                    <p>Tokyo is the capital of Japan.</p>
+                <div id="Tokyo" className={styles.tab} style={{display: 'none'}}>
+                    <h1 className={styles.title}>Tributes</h1>
+                    <p>In development...</p>
                 </div>      
             </div>
+            <div className={styles.paddingBox}></div>
         </div>
     );
 }

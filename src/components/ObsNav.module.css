@@ -1,44 +1,30 @@
 .obsNavBox {
-    height: 5vh;
-    width: 100%;
-
     position: absolute;
-    top: -7vh;
-    left: 0%;
+    top: 0;
+    left: 100%;
 
-    margin-left: 3px;
-    padding-left: 20px;
+    padding-left: 5px;
     
-    /* border-left: 3px solid rgb(59, 94, 220); */
-    border-top: 1px solid rgb(128, 128, 128);
-    border-bottom: 1px solid rgb(128, 128, 128);
+    border-left: 3px solid rgb(59, 94, 220);
 
     display: flex;
-    justify-content: flex-start;
+    flex-direction: column;
     align-items: stretch;
-    gap: 20px;
+    gap: 10px;
 }
 
 .obsContentBox {
-    width: 100%;
+    width: 40vw;
 
-    position: absolute;
+    position: relative;
     top: 0vh;
     left: 0%;
 
-    padding: 5px 20px;
     margin-left: -3px;
-    /* border: 3px solid rgb(59, 94, 220); */
-    
-    border-left: 3px solid rgb(59, 94, 220);
 }
 
-.paddingBox {
-    bottom: 0;
-    padding-bottom: 40px;
-}
-
-.title {
+/* title */
+.obsContentBox h1 {
     font-family: "EB Garamond", serif;
     font-weight: 400;
     font-size: 2.5em;
@@ -47,10 +33,59 @@
     margin-bottom: 0px;
 }
 
-.subtitle {
+/* subtitle */
+.obsContentBox h2 {
     font-family: "EB Garamond", serif;
-    font-weight: 500;
+    font-weight: 400;
     font-size: 1.3em;
+
+    line-height: 0.5;
+}
+
+/* date */
+.obsContentBox h3 {
+    color: rgb(120, 120, 120);
+
+    font-family: "EB Garamond", serif;
+    font-style: italic;
+    font-weight: 300;
+    font-size: 1em;
+    
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.obsContentBox p {
+    margin-bottom: 0px;
+}
+
+.obsContentBox ul {
+    line-height: 1.5em;
+    margin-bottom: 0px;
+}
+
+.obsContentBox blockquote {
+    font-family: "EB Garamond", serif;
+    font-weight: 400;
+
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 0px;
+    padding: 10px;
+
+    /* border: 3px solid rgb(59, 94, 220); */
+  
+    border-left: 2px solid rgb(135, 185, 241);
+}
+
+.obsContentBox blockquote p {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.obsContentBox blockquote em {
+    /* font-weight: 600; */
+    font-size: 0.9em;
 }
 
 .navSubtitle {
@@ -62,22 +97,21 @@
 .obsButton {
     font-family: "EB Garamond", serif;
     font-weight: 500;
-    font-size: 1.1em;
+    font-size: 1em;
 
     background-color: rgb(255, 255, 255);
     color: rgb(164, 164, 164);
 
     border: none;
-    background-origin: 0px;
-
-    padding: 5px 0px;
+    text-align: left;
+    padding-left: 5px;
 }
 
 .obsButton:hover {
     color: rgb(0, 0, 0)
 }
 
-.city {
+.tab {
     font-family: "EB Garamond", serif;
 }
 
@@ -96,21 +130,37 @@
     border-left: 2px solid rgb(135, 185, 241);
 }
 
+.paddingBox {
+    bottom: 0;
+    padding-bottom: 0px;
+}
+
 @media (max-width: 768px) {
     .obsNavBox {
+        height: 5vh;
+        width: 90vw;
+        left: 0;
+        top: -1vh;
+
+        border-left: none;
         border-top: 1px solid rgb(128, 128, 128);
         border-bottom: 1px solid rgb(128, 128, 128);
 
-        top: 0vh;
-        
+        border-left: none;
+
         padding-left: 0px;
         margin-top: 10px;
+
+        flex-direction: row;
+        gap: 20px;
     }
 
     .obsContentBox {
-        top: 5vh;
+        width: 90vw;
+        top: 6vh;
 
         padding: 0px;
+        margin-left: 0px;
         margin-top: 20px;
 
         border-left: none;
@@ -118,6 +168,11 @@
 
     .obsButton {
         padding: 0px;
+    }
+
+    .paddingBox {
+        bottom: 0;
+        padding-bottom: 40px;
     }
 }
   

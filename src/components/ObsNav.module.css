@@ -140,13 +140,11 @@
         height: 5vh;
         width: 90vw;
         left: 0;
-        top: -1vh;
+        top: -2vh;
 
         border-left: none;
         border-top: 1px solid rgb(128, 128, 128);
         border-bottom: 1px solid rgb(128, 128, 128);
-
-        border-left: none;
 
         padding-left: 0px;
         margin-top: 10px;

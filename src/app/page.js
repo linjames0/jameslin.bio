@@ -1,6 +1,4 @@
 import styles from "./page.module.css";
-import Nav from "../components/Nav";
-import MyHead from "../components/Head";
 
 export default function Page() {
     return (

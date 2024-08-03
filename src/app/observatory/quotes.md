@@ -52,6 +52,10 @@ Who I am, in glances and snapshots.
 >
 > *— Albert Camus*
 
+> That is why I like novels: instead of heroes they have people in them.
+>
+> *— Ursula K. Le Guin*
+
 > But men in general are so perverse, not to say shameless, as to wish a friend to be in character what they themselves could not be, and they expect of friends what they do not give them in return. The proper course, however, is for one first to be himself a good man, and then to seek another like himself.
 > 
 > *— Cicero, On Friendship*

@@ -21,7 +21,6 @@ export default function Observatory() {
         <div>
             <ObsNav>
                 <div dangerouslySetInnerHTML={{ __html: quotes}} />
-                {/* {quotes} */}
             </ObsNav>
         </div>
     );

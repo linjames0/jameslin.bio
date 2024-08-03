@@ -81,3 +81,8 @@ Who I am, in glances and snapshots.
 > Mrs Joe was a very clean housekeeper, but had an exquisite art of making her cleanliness more uncomfortable and unacceptable than dirt itself. Cleanliness is next to Godliness, and some people do the same by their religion.
 > 
 > *— Pip, Great Expectations*
+
+> So long as culture was explained as originating from and elaborating upon the use of long, hard objects for sticking, bashing, and killing, I never thought that I had, or wanted, any particular share in it. ("What Freud mistook for her lack of civilization is woman's lack of loyalty to civilization," Lillian Smith observed.) The society, the civilization they were talking about, these theoreticians, was evidently theirs; they owned it, they liked it; they were human, fully human, bashing, sticking, thrusting, killing. Wanting to be human too, I sought for evidence that I was; but if that's what it took, to make a weapon and kill with it, then evidently I was either extremely defective as a human being, or not human at all.
+> 
+> *— Ursula K. Le Guin*
+

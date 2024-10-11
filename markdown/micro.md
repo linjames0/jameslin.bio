@@ -24,7 +24,7 @@ When in doubt, start small.
 * Shadow researchers/programmers/...
 
 **Friendships**
-* Spontaneous calls
+* Call spontaneously
 * Show up
 * Lend a hand, an ear, a shoulder
 * Give small gifts/souvenirs

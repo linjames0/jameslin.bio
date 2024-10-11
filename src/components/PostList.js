@@ -4,6 +4,11 @@ import styles from "./PostList.module.css";
 export default function PostList() {
     return (
         <div>
+            {/* <hr />
+            <Link href="/micro" className={styles.postTitle}>Microdose</Link>
+            <p className={styles.postDate}>
+                October 11, 2024
+            </p> */}
             <hr />
             <Link href="/young" className={styles.postTitle}>Your strength as a young person</Link>
             <p className={styles.postDate}>

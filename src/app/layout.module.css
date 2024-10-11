@@ -70,6 +70,11 @@
     border-left: 2px solid rgb(135, 185, 241);
 }
 
+/* footnote */
+.markdown section {
+    font-size: 0.5em;
+}
+
 @media (max-width: 768px) {
     .mainBox {
         border-left: none;

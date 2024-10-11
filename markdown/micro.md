@@ -7,40 +7,39 @@
 
 ---
 
-I wish somebody had told me that you could sample different life experiences before committing. That by being aunthentic and curious you could peel back layers and layers of a person or topic in a brief span of time. That when it comes to mood and relationships and everything in between, the small things matter just as much as the big, sweeping, obvious things.
+I wish somebody had told me that you could sample different life experiences before fully committing. That when it comes to mood and relationships and everything in between, the small things matter just as much as the big, sweeping, obvious things.
 
-The small things sustain the big things in the same way a patch of soil supports a great redwood.
-
-Note to self: when in doubt, start small.
-
-**Happiness**
-* Spontaneous calls with friends
-* Small acts of service
-* Small candies
-* Giving gifts 
-* Putting on your favorite playlist
+When in doubt, start small.
 
 **College**
-* Crashing couches
-* Hanging out in common areas
-* Acquiring secret handshakes
-* Learning the lore
-
-**Energy**
-* Bathing in sunlight
-* Breathing in fresh air
-* Splashing cold water
-* Going for a walk/run
+* Crash couches
+* Hang out in common areas
+* Acquire secret handshakes
+* Learn the lore
 
 **Career**
-* Shadowing a senior researcher/programmer/...
-* Reading the top 10 papers in a field
-* Grilling knowledgeable people
-* Making Anki cards
+* Read the important papers in a field
+* Ask dumb questions
+* Make Anki cards
+* Shadow researchers/programmers/...
+
+**Friendships**
+* Spontaneous calls
+* Show up
+* Lend a hand, an ear, a shoulder
+* Give small gifts/souvenirs
+
+**Energy**
+* Get sunlight
+* Breathe in fresh air
+* Splash cold water
+* Go for a run
 
 **Peace**
-* Going on a nice walk
-* Cooking a meal
-* Hugging your s/o
-* Reading a good book
+* Go on a nice walk
+* Cook a meal
+* Hug your s/o
+* Read a good book
+* Put on your favorite playlist
+
 

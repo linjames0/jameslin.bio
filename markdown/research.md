@@ -1,5 +1,5 @@
 # Observations from MIT's best neuroscience lab
-### November 12th, 2024
+### November 14th, 2024
 
 Table of Contents:
 * Boyden Lab culture

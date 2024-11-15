@@ -87,7 +87,7 @@ Academia has a systemic talent problem. Most labs only have one professor-level 
 Because of this high level of churn, any given lab is often constrained by expertise. In industry, it's normal for people to stay at a single job for 10-20 years and in doing so they develop a deep domain expertise which is essential for hard technical breakthroughs.
 
 #### 2. Competition
-Given the rate of talent turnover, collaboration with other groups becomse all the more important. But here, too, there are incentive problems. It can be hard to initiate collaborations with labs in the same field because of the competitive politics  of publishing. Often, both groups are trying to publish first on similar discoveries. This causes a major conflict in authorship: who gets first author? second author? how do you split credit? which lab gets the patent? etc.
+Given the rate of talent turnover, collaboration with other groups becomes all the more important. But here, too, there are incentive problems. It can be hard to initiate collaborations with labs in the same field because of the competitive politics  of publishing. Often, both groups are trying to publish first on similar discoveries. This causes a major conflict in authorship: who gets first author? second author? how do you split credit? which lab gets the patent? etc.
 
 This is less of a problem within labs. Because people in our group are all working on their own differentiated projects, there's far less politics and competition. There's an open spirit of collaboration - we frequently share reagents, data, assist with teaching new techniques, send papers, and make introductions.
 

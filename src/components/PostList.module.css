@@ -1,5 +1,4 @@
 .postTitle {
-    font-family: "EB Garamond", serif;
     font-weight: 400;
     font-size: 1.2em;
   
@@ -8,7 +7,6 @@
 }
   
 .postDate {
-    font-family: "EB Garamond", serif;
     color: rgb(120, 120, 120);
     font-style: italic;
   

@@ -25,7 +25,6 @@
 
 /* title */
 .obsContentBox h1 {
-    font-family: "EB Garamond", serif;
     font-weight: 400;
     font-size: 2.5em;
 
@@ -35,7 +34,6 @@
 
 /* subtitle */
 .obsContentBox h2 {
-    font-family: "EB Garamond", serif;
     font-weight: 400;
     font-size: 1.3em;
 
@@ -46,7 +44,6 @@
 .obsContentBox h3 {
     color: rgb(120, 120, 120);
 
-    font-family: "EB Garamond", serif;
     font-style: italic;
     font-weight: 300;
     font-size: 1em;
@@ -65,7 +62,6 @@
 }
 
 .obsContentBox blockquote {
-    font-family: "EB Garamond", serif;
     font-weight: 400;
 
     margin-top: 20px;
@@ -89,13 +85,12 @@
 }
 
 .navSubtitle {
-    font-family: "EB Garamond", serif;
     font-weight: 400;
     font-size: 1.1em;
 }
 
 .obsButton {
-    font-family: "EB Garamond", serif;
+    font-family: var(--font-eb-garamond), serif;
     font-weight: 500;
     font-size: 1em;
 
@@ -111,16 +106,11 @@
     color: rgb(0, 0, 0)
 }
 
-.tab {
-    font-family: "EB Garamond", serif;
-}
-
 .activeTab {
     color: rgb(0, 0, 0);
 }
 
 .obsContentBox blockquote {
-    font-family: "EB Garamond", serif;
     font-weight: 400;
 
     margin-bottom: 0px;

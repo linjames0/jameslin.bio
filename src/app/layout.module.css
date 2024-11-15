@@ -19,7 +19,6 @@
 
 /* title */
 .markdown h1 {
-    font-family: "EB Garamond", serif;
     font-weight: 400;
     font-size: 2.5em;
 
@@ -29,9 +28,12 @@
 
 /* subtitle */
 .markdown h2 {
-    font-family: "EB Garamond", serif;
-    font-weight: 600;
-    font-size: 1.1em;
+    font-family: var(--font-newsreader), serif;
+    font-weight: 500;
+    font-size: 1.5em;
+
+    margin-top: 1.5em;
+    margin-bottom: 0px;
 
     line-height: 0.5;
 }
@@ -40,7 +42,6 @@
 .markdown h3 {
     color: rgb(120, 120, 120);
 
-    font-family: "EB Garamond", serif;
     font-style: italic;
     font-weight: 300;
     font-size: 1em;
@@ -49,7 +50,19 @@
     margin-bottom: 0px;
 }
 
+.markdown h4 {
+    font-family: var(--font-newsreader), serif;
+    font-weight: 500;
+    font-size: 1.1em;
+
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+
+    line-height: 0.5;
+}
+
 .markdown p {
+    margin-top: 1em;
     margin-bottom: 0px;
 }
 
@@ -58,8 +71,13 @@
     margin-bottom: 0px;
 }
 
+.markdown ol {
+    line-height: 1.5em;
+    margin-top: 0.5em;
+    margin-bottom: 0px;
+}
+
 .markdown blockquote {
-    font-family: "EB Garamond", serif;
     font-weight: 400;
 
     margin-bottom: 0px;

@@ -2,6 +2,7 @@
 
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
+import "../app/globals.css";
 import styles from "./Nav.module.css";
 
 export default function Nav() {

@@ -2,11 +2,11 @@
 ### November 14th, 2024
 
 Table of Contents:
-* Boyden Lab culture
+* How the Boyden Lab gets things done
 * What to know about research
-* Academic culture
+* Observations on academic culture
 
--- 
+---
 
 I spent the past month in the Boyden Lab at MIT. The lab has a history of inventing scientific tools, including but not limited to: [optogenetics](<https://www.nature.com/articles/nn1525)>), [temporal interference](https://pmc.ncbi.nlm.nih.gov/articles/PMC5520675/), [expansion microscopy](https://www.nature.com/articles/s41592-018-0219-4), and [temporal multiplexed imaging](https://www.sciencedirect.com/science/article/pii/S0092867423012278). Any of these tools on their own could make an argument for a Nobel — to have discovered and developed several is indicative of a systematic process, a sound approach to producing great science.
 

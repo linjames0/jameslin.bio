@@ -16,7 +16,7 @@ export default function Page() {
             </p>
             <h3 className={styles.subtitle}>This website is my digital nucleus</h3>
             <p style={{marginBottom: 0}}>
-                A collection of my ever-evolving thoughts and ideas. If anything here resonates, feel free to reach out via <a href="mailto:james218.lin@gmail.com">email</a> or <a href="https://x.com/jlinbio">twitter</a>. Always excited to meet new people.
+                A collection of my ever-evolving thoughts and ideas. If anything here resonates, feel free to reach out via <a href="mailto:linjames@mit.edu">email</a> or <a href="https://x.com/jlinbio">twitter</a>. Always excited to meet new people.
             </p>
         </div>
     );

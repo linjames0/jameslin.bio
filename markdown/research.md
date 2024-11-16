@@ -1,7 +1,7 @@
 # Observations from MIT's best neuroscience lab
 ### November 14th, 2024
 
-Table of Contents:
+#### Table of Contents
 * How the Boyden Lab gets things done
 * What to know about research
 * Observations on academic culture

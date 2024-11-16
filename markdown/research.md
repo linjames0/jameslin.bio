@@ -10,7 +10,9 @@ Table of Contents:
 
 I spent the past month in the Boyden Lab at MIT. The lab has a history of inventing scientific tools, including but not limited to: [optogenetics](<https://www.nature.com/articles/nn1525)>), [temporal interference](https://pmc.ncbi.nlm.nih.gov/articles/PMC5520675/), [expansion microscopy](https://www.nature.com/articles/s41592-018-0219-4), and [temporal multiplexed imaging](https://www.sciencedirect.com/science/article/pii/S0092867423012278). Any of these tools on their own could make an argument for a Nobel — to have discovered and developed several is indicative of a systematic process, a sound approach to producing great science.
 
-I’m working on [nanoscale-imaging of C. elegans](https://pubmed.ncbi.nlm.nih.gov/35320565/) and in a future post I’ll do a deeper dive into my research. This post, however, is my attempt to distill observations on the *process* of doing great science from inside a world-class lab. This is not a guide to the 'publish or perish' flavor of science. Fuck that. I'm interested in how paradigms get torn down and rebuilt through the scientific method. There's magic here and it's working.
+Apart from academic achievements, the lab has a history of spinning out companies working on [precision neuroimaging](https://e11.bio/), [AI for science](https://www.futurehouse.org/), and [wearable neurotechnologies](https://elemindtech.com/) to name a few. There is a deep understanding of what institutions are appropriate for the progress we hope to achieve.
+
+I’m working on [nanoscale-imaging of C. elegans](https://pubmed.ncbi.nlm.nih.gov/35320565/) and in a future post I’ll do a deeper dive into my research. This post, however, is my attempt to distill observations on the *process* of doing great science from inside a world-class lab. This is not a guide to the 'publish or perish' flavor of science. I'm interested in how paradigms get torn down and rebuilt through the scientific method. There's magic here and it's working.
 
 ## How we get things done
 It's worth noting that the Boyden Lab is atypical in some important ways:
@@ -27,7 +29,7 @@ Through this flat structure, he facilitates highly efficient top-down decision-m
 #### 2. Go for gold
 Our lab culture is a severe rejection of incrementalism. We want to innovate and redefine, not optimize p-values or benchmarks. Be damned if our research isn't at least Nobel-worthy.
 
-Ed frequently questions the ambition of an idea: is it scalable? can we open-source the method for all labs? not just the privileged? how does this fundamentally change how science gets done? He also constantly pushes for us to invert the premise: what if we didn't try to image smaller things? what if instead [we made them bigger](https://www.nature.com/articles/s41592-018-0219-4)? Most of the time when you invert you arrive at something that sounds ridiculous, but on those rare occasions where the conclusion gives you a pause, you're on the cusp of revolution.
+Ed frequently questions the ambition of an idea: is it scalable? can we open-source the method for all labs? how does this fundamentally change how science gets done? He also constantly pushes for us to invert the premise: what if we didn't try to image smaller things? what if instead [we made them bigger](https://www.nature.com/articles/s41592-018-0219-4)? Most of the time when you invert you arrive at something that sounds ridiculous, but on those rare occasions where the conclusion gives you a pause, you're on the cusp of revolution.
 
 What struck me the most is that people (supposedly risk-averse academics!) join with the understanding they might not get *any papers* during their time at the lab. Many experiments fail and in big ways, but these are table stakes for great science. Some of our experiments end up working and they change the game.
 
@@ -73,8 +75,13 @@ Or: advice on how to make the most of your time in lab.
 
 #### 4. Relationships rule the world
 * Collaborations come out of who you know
-* Go to seminars, sign up for presentations, email people you’d like to work with
+    * Go to seminars, sign up for presentations, email people you’d like to work with
 * Surround yourself with people who inspire you through their brilliance
+* One of the best ways to 'network' in academia is to show deep interest in people's research
+    * Genuine curiosity is hard to fake
+    * Nothing lights up a postdoc's eyes more reliably than asking questions about the details of their obscure research
+    * Asking good questions is hard though - it's important to do your own research and show up with serious inquiries
+    * Receiving poorly thought-out questions is a filter for people - nobody wants to waste their time on someone who clearly doesn't care that much
 
 Beyond the research process, there were some surprising things about academic culture I got to see firsthand.
 
@@ -111,8 +118,15 @@ Our lab is large and for the most part we have access to state of the art equipm
 Earlier this year the BRAIN Initiative announced a [budget cut of nearly $300M](https://www.thetransmitter.org/funding/278-million-cut-in-brain-initiative-funding-leaves-neuroscientists-in-limbo/) for neuroscientific research, which was a major source of funding for neuroscience labs like ours. Along with the near-term risk of large cuts in government funding, money anxiety has been brought back to the forefront of academic concerns.
 
 #### 5. Intensity
-Having spent many years around SF startup founders, I was used to a high-intensity all-out-ness, something sorely missing from academic culture. I usually start lab-related stuff at 10am and I'm almost always the last to leave the lab around 10pm. I fill my days with papers and wet lab and chemistry study. In contrast, most people usually get in around noon and leave early evening. In part this is because some people work from home, but the bigger reason is that researchers emphasize work-life balance.
+Having spent many years around SF startup founders, I was used to a high-intensity all-out-ness, something sorely missing from academic culture. I usually start lab-related stuff at 10am and I'm almost always the last to leave the lab around 10pm. I fill my days with papers and wet lab and chemistry study. In contrast, most people usually get in around noon and leave early evening. In part this is because some people work from home, but there are two other culprits: there's no incentive for intensity and researchers emphasize work-life balance.
 
-Most PhDs and postdocs are in their late 20s and early 30s, some of them have families and others are out with friends. They're at a stage in life where work isn't so all-consuming, not to mention that academia is often chosen for its stability and certainty.
+In most startups, your company is constantly under competitive pressure and threats of running out of money. If you don't stay in the office until 1am, some other team will and they will outcompete you. There isn't time to take your time.
+
+The other thing is that most PhDs and postdocs are in their late 20s and early 30s, some of them have families and others are out with friends. They're at a stage in life where work isn't so all-consuming, not to mention that academia is often chosen for its stability and certainty.
 
 This is valid! Research isn't everything. I take some weekends off to make time for friends and road trips and personal interests. But the slower pace is something to keep in mind if you're thinking of doing research.
+
+## Closing thoughts
+The incentives of academic labs create a fantastic learning environment to pick up skills and experience, but this environment is not conducive to fast-paced execution of projects. That said, there are many slower-paced, longer-term scientific ambitions which are only possible in a lab setting. The Human Genome project was a $3B effort to sequence the human genome with thin financial justification at the time, and yet a consortium of academic labs came together and made it happen. The scientific and medical community have since reaped the benefits of cheap, ubiquitous, scalable sequencing. 
+
+Our lab is particularly concerned with mapping the human brain, referred to as the Human Connectome Project. It's unclear what the financial incentives are for such a project, but what we do know is that accomplishing such a feat will have great consequences for our understanding of the most complex organ known to man. 

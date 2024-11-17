@@ -90,7 +90,7 @@ Or: advice on how to make the most of your time in lab.
 Beyond the research process, there were some surprising things about academic culture I got to see firsthand.
 
 ## Academic culture
-Academic labs are a fantastic place to learn, but not a great place to execute on commercial scientific projects. For that, you would need another kind of institution.
+A lot has already been written about the failings of 'publish or perish' culture so I won't go into detail on that. Instead, I want to make observations about the other forces that apply constant pressure across academia.
 
 #### 1. Churn
 Academia has a systemic talent problem. Most labs only have one professor-level person because the tenure system incentivizes great researchers to leave the lab to start their own group. Graduate students are only there for certification, and they leave for other positions after. Funding is low so research techs and undergrads jump at opportunities in industry for higher pay.
@@ -119,7 +119,7 @@ What this feels like on the ground is a confusing contradiction. Many researcher
 
 Our lab is large and for the most part we have access to state of the art equipment and reagents. We're also much more careful about preventing waste and minimizing administrative bloat. But because of our size we incur greater overhead than most labs. 
 
-Earlier this year the BRAIN Initiative announced a [budget cut of nearly $300M](https://www.thetransmitter.org/funding/278-million-cut-in-brain-initiative-funding-leaves-neuroscientists-in-limbo/) for neuroscientific research, which was a major source of funding for neuroscience labs like ours. Along with the near-term risk of large cuts in government funding, money anxiety has been brought back to the forefront of academic concerns.
+Relevant to this point: earlier this year the BRAIN Initiative announced a [budget cut of nearly $300M](https://www.thetransmitter.org/funding/278-million-cut-in-brain-initiative-funding-leaves-neuroscientists-in-limbo/) for neuroscientific research, which was a major source of funding for neuroscience labs like ours. Along with the near-term risk of large cuts in government funding, money anxiety has been brought back to the forefront of academic concerns.
 
 #### 5. Intensity
 Having spent many years around SF startup founders, I was used to a high-intensity all-out-ness, something sorely missing from academic culture. I usually start lab-related stuff at 10am and I'm almost always the last to leave the lab around 10pm. I fill my days with papers and wet lab and chemistry. In contrast, most people usually get in around noon and leave early evening. In part this is because some people work from home, but there are two other culprits: there's no incentive for intensity and researchers emphasize work-life balance.
@@ -131,10 +131,10 @@ The other thing is that most PhDs and postdocs are in their late 20s and early 3
 This is valid! Research isn't everything. I take some weekends off to make time for friends and road trips and personal interests. But the slower pace is something to keep in mind if you're thinking of doing research.
 
 ## Closing thoughts
-The incentives of academic labs create a fantastic learning environment to pick up skills and experience, but the environment is not conducive to fast-paced execution of projects. That said, there are many slower-paced, longer-term scientific ambitions which are only possible in an academic setting. [The Human Genome Project](https://www.genome.gov/human-genome-project) was a $3B effort to sequence the human genome with thin financial justification at the time, and yet a consortium of academic labs came together and made it happen. The scientific and medical community have since reaped the benefits of cheap, ubiquitous, scalable sequencing. 
+The incentives of academic labs create a fantastic learning environment to pick up skills and experience, but the environment is not conducive to fast-paced execution of projects. You would need [another kind of institution](https://www.convergentresearch.org/) for that. That said, there are many slower-paced, longer-term scientific ambitions which are only possible in an academic setting. [The Human Genome Project](https://www.genome.gov/human-genome-project) was a $3B effort to sequence the human genome with thin financial justification at the time, and yet a consortium of academic labs came together and made it happen. The scientific and medical community have since reaped the benefits of cheap, ubiquitous, scalable sequencing.
 
-Our lab is particularly concerned with mapping the human brain,referred to as the [Human Connectome Project](https://neuroscienceblueprint.nih.gov/human-connectome/connectome-programs), and developing the key neurotechnologies that come out of that research. It's unclear what the financial incentives are for such a project, but what we do know is that accomplishing such a feat will have great consequences for our understanding of the most complex organ known to man. If you're interested in supporting the effort in any way, shoot me an email @ [linjames@mit.edu](mailto:linjames@mit.edu). We're constantly looking to work with great scientists who can learn fast.
+Our lab is particularly concerned with mapping the human brain,referred to as the [Human Connectome Project](https://neuroscienceblueprint.nih.gov/human-connectome/connectome-programs), and developing the key neurotechnologies that come out of that research. It's unclear what the financial incentives are for such a project, but it will undoubtedly have great consequences for our understanding of the most complex organ known to man. If you're interested in supporting the effort in any way, shoot me an email @ [linjames@mit.edu](mailto:linjames@mit.edu). We're constantly looking to work with great scientists who can learn fast.
 
-Having spent time in several academic labs, there is a great difference in the details of how things get done. As with everything, your mileage may vary. But hopefully, this gives you a good sense of what the process is like on the inside.
+Having spent time in several academic labs, there is a lot of variance in the details of how things get done at different places. As with everything, your mileage may vary. But hopefully, this gives you a good sense of what the process is like on the inside.
 
 

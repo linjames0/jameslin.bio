@@ -156,6 +156,6 @@ I'm not saying that there is no merit to academic labs—they are necessary to t
 
 *1. I cannot go without expressing a tremendous thank you to [Isaak Freeman](https://isaak.net/). He is the singular reason why I joined the lab. I called up Isaak on a weekday, he offered to show me around the lab, and I flew there the next week. He got me up to speed, introduced me to the people, and at every step was a persistent champion. Words cannot do my gratitude justice.*
 
-*2. Thanks to Ed for taking a chance on me and constantly pushing me through constructive criticism. Thanks to my postdoc Yangning who graciously took me under his wing, and has taught me so much about chemistry and shown me how science gets done.*
+*2. Thanks to Ed for taking a chance on me and constantly pushing me through constructive criticism. Thanks to my postdoc Yangning who graciously took me under his wing, and has taught me so much chemistry and shown me how science gets done.*
 
 *3. Thanks also to Isaak Freeman, [AJ Kourabi](https://www.ajkourabi.com/), and [Sigil Wen](https://sigilwen.ca/) for reading over initial drafts and providing feedback.*

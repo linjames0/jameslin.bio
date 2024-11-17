@@ -57,8 +57,8 @@ Or: advice on how to make the most of your time in lab.
     
 #### 2. Learning rate = feedback rate
 * The single-most important factor for choosing a lab is the quality of mentorship
-    * The research direction and everything else is secondary to ensuring you have a great supervisor or PI
-    * My supervisor is the reason I chose the lab - he is fantastic at breaking down the science and can consistently explain down to Level 5 where most stop at Level 2
+    * Everything else is secondary to ensuring you have a great supervisor or PI
+    * My supervisor is the reason I chose the lab - he can explain down to Level 5 where most stop at Level 2
 * Ask, ask, ask
     * The best researchers in the lab are the ones who are asking the most questions
     * Keep asking questions until you can deliver a killer lecture on the topic

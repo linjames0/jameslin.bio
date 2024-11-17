@@ -36,7 +36,7 @@ Ed frequently questions the ambition of an idea: is it scalable? can we open-sou
 
 What struck me the most is that people (supposedly risk-averse academics!) join with the understanding they might not get *any papers* during their time at the lab. Many experiments fail and in big ways, but these are table stakes for great science. Some of our experiments end up working and they change the game.
 
-It's hard to overstate how important these two cultural pillars are for facilitating risk-taking and innovation. It's equally important to note just how out-of-place this culture is in academia. Risk-taking is not the norm. Most labs are beholden to foreseeable, reliable results of the kind necessary to secure grants and further funding. But the kind of science that results from this kind of thinking is fundamentally uninteresting. It is necessary, yes, but in my view the best kind of science is aspirational with a chance of huge if true.
+It's hard to overstate how important these two cultural pillars are for facilitating risk-taking and innovation. It's equally important to note just how out-of-place this culture is in academia. Risk-taking is not the norm. Most labs are beholden to foreseeable, reliable results to secure grants and further funding. But the kind of science that results from this kind of thinking is fundamentally uninteresting. It is necessary, yes, but in my view the best kind of science is aspirational with a chance of huge if true.
 
 With that out of the way, a lot of things remain true across different research labs.
 
@@ -142,11 +142,11 @@ Our lab is particularly concerned with mapping the human brain—referred to as 
 
 ---
 
-Now, a question has surfaced and lingers on my mind: are academic labs the best place for science? The Boyden Lab is great but definitely not representative of most academic environments.
+Now, a question has surfaced and lingers on my mind: are academic labs the best place for science? The Boyden Lab is the best case for an academic lab but definitely not representative of most academic environments.
 
 In recent years, [Focused Research Organizations](https://www.convergentresearch.org/) (cofounded by Boyden Lab alum) have taken the spotlight as experimental attempts to reshape how science gets done. It's not clear how these attempts will shake out but they seem to be moving us in the right direction.
 
-This year has brought along a wave of successes for new institutions of science. [The Arc Institute](https://arcinstitute.org/news/blog/evo) released an impressive biological foundation model called Evo. HuggingFace, arxiv, and private AI labs together facilitated extraordinary progress in machine learning. DeepMind shared the Nobel Prize in Chemistry for their development and [open-sourcing](https://www.nature.com/articles/d41586-024-03708-4) of AlphaFold which has enabled the prediction of millions of previously elusive protein structures. They have done so while achieving breakthrough results in solving complex math problems, chip design, sorting algorithms, energy efficiency, matrix operations, and competitive programming. I think they are the closest thing we have to a modern day Bell Labs.
+This year alone has brought along a wave of successes for new institutions of science. [The Arc Institute](https://arcinstitute.org/news/blog/evo) released an impressive biological foundation model called Evo. HuggingFace, arxiv, and private AI labs together facilitated extraordinary progress in machine learning. DeepMind shared the Nobel Prize in Chemistry for their development and [open-sourcing](https://www.nature.com/articles/d41586-024-03708-4) of AlphaFold which has enabled the prediction of millions of previously elusive protein structures. They have done so while achieving breakthrough results in solving complex math problems, chip design, sorting algorithms, energy efficiency, matrix operations, and competitive programming. I think they are the closest thing we have to a modern day Bell Labs.
 
 These are all examples of institutions outside of government and academia which have made an irrefutable case for their ability to do great science. Particularly, open-source approaches have demonstrated remarkable success in accelerating progress on scientific problems.
 
@@ -156,4 +156,6 @@ I'm not saying that there is no merit to academic labs—they are necessary to t
 
 *1. I cannot go without expressing a tremendous thank you to [Isaak Freeman](https://isaak.net/). He is the singular reason why I joined the lab. I called up Isaak on a weekday, he offered to show me around the lab, and I flew there the next week. He got me up to speed, introduced me to the people, and at every step was a persistent champion. Words cannot do my gratitude justice.*
 
-*2. Thanks also to Isaak Freeman, [AJ Kourabi](https://www.ajkourabi.com/), and [Sigil Wen](https://sigilwen.ca/) for reading over initial drafts and providing feedback.*
+*2. Thanks to Ed for taking a chance on me and constantly pushing me through constructive criticism. Thanks to my postdoc Yangning who graciously took me under his wing, and has taught me so much about chemistry and shown me how science gets done.*
+
+*3. Thanks also to Isaak Freeman, [AJ Kourabi](https://www.ajkourabi.com/), and [Sigil Wen](https://sigilwen.ca/) for reading over initial drafts and providing feedback.*

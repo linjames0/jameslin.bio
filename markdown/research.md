@@ -26,12 +26,17 @@ Size does matter when you're running a 50-person lab. Most labs this large tend 
 
 Through this flat structure, he facilitates highly efficient top-down decision-making and kills seniority politics. You don't need to go through a chain of authority to reach him. Even undergrads can propose and run their own experiments if the ideas are good. It's a highly merit-based culture.
 
+On the other hand, because everyone is working on their own thing, it can sometimes feel like people are all moving in different directions instead of toward a single concerted goal. Some of the best work in the lab is collaborative, which can be harder to enforce when people by default work independently.
+
+
 #### 2. Go for gold
-Our lab culture is a severe rejection of incrementalism. We want to innovate and redefine, not optimize p-values or benchmarks. Be damned if our research isn't at least Nobel-worthy.
+The lab culture is a severe rejection of incrementalism. We want to innovate and redefine, not optimize p-values or benchmarks. Be damned if our research isn't at least Nobel-worthy.
 
 Ed frequently questions the ambition of an idea: is it scalable? can we open-source the method for all labs? how does this fundamentally change how science gets done? He also constantly pushes for us to invert the premise: what if we didn't try to image smaller things? what if instead [we made them bigger](https://www.nature.com/articles/s41592-018-0219-4)? Most of the time when you invert you arrive at something that sounds ridiculous, but on those rare occasions where the conclusion gives you a pause, you're on the cusp of revolution.
 
 What struck me the most is that people (supposedly risk-averse academics!) join with the understanding they might not get *any papers* during their time at the lab. Many experiments fail and in big ways, but these are table stakes for great science. Some of our experiments end up working and they change the game.
+
+It's hard to overstate how important these two cultural pillars are for facilitating risk-taking and innovation. It's equally important to note just how out-of-place this culture is in academia. Risk-taking is not the norm. Most labs are beholden to foreseeable, reliable results of the kind necessary to secure grants and further funding. But the kind of science that results from this kind of thinking is fundamentally uninteresting. It is necessary, yes, but in my view the best kind of science is aspirational with a chance of huge if true.
 
 With that out of the way, a lot of things remain true across different research labs.
 
@@ -135,6 +140,16 @@ The incentives of academic labs create a fantastic learning environment to pick 
 
 Our lab is particularly concerned with mapping the human brain, referred to as the [Human Connectome Project](https://neuroscienceblueprint.nih.gov/human-connectome/connectome-programs), and developing the key neurotechnologies that come out of that research. It's unclear what the financial incentives are for such a project, but it will undoubtedly have great consequences for our understanding of the most complex organ known to man. If you're interested in supporting the effort in any way, shoot me an email @ [linjames@mit.edu](mailto:linjames@mit.edu). We're constantly looking to work with great scientists who can learn fast.
 
-Having spent time in several academic labs, there is a lot of variance in the details of how things get done at different places. As with everything, your mileage may vary. But hopefully, this gives you a good sense of what the process is like on the inside.
+Now, a question has surfaced and lingers on my mind: are academic labs the best place for science? The Boyden Lab is great but definitely not representative of most academic environments.
 
+This year has brought along a wave of successes for new institutions of science. [The Arc Institute](https://arcinstitute.org/news/blog/evo) released an impressive biological foundation model called Evo. HuggingFace, arxiv, and private AI labs together facilitated extraordinary progress in machine learning. DeepMind shared the Nobel Prize in Chemistry for their development and [open-sourcing](https://www.nature.com/articles/d41586-024-03708-4) of AlphaFold which has enabled the prediction of millions of previously elusive protein structures. They have done so while achieving breakthrough results in solving complex math problems, chip design, sorting algorithms, energy efficiency, matrix operations, and competitive programming. I think they are the closest thing we have to a modern day Bell Labs.
 
+These are all examples of institutions outside of government and academia which have made an irrefutable case for great science. Particularly, open-source approaches have demonstrated remarkable success in accelerating progress on scientific problems.
+
+I'm not saying that there is no merit to academic labs—they are necessary to the scientific apparatus. What I *am* questioning is whether they are the best place for breakthrough research. More and more, I think not. Talent churns, funding is constrained, and research moves forward at a glacial pace. Perhaps it's time to reconsider how we go about uncovering nature's mysteries.
+
+---
+
+*I cannot go without expressing a tremendous thank you to [Isaak Freeman](https://isaak.net/). He is the singular reason why I joined the lab. I called up Isaak on a weekday, he offered to show me around the lab, and I flew there the next week. He got me up to speed, introduced me to the people, and at every step was a persistent champion. Words cannot do my gratitude justice.*
+
+*Thanks also to Isaak Freeman, AJ Kourabi, and Sigil Wen for reading over initial drafts and providing feedback.*

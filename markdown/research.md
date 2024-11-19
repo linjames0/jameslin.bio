@@ -127,11 +127,11 @@ Our lab is large and for the most part we have access to state of the art equipm
 Relevant to this point: earlier this year the BRAIN Initiative announced a [budget cut of nearly $300M](https://www.thetransmitter.org/funding/278-million-cut-in-brain-initiative-funding-leaves-neuroscientists-in-limbo/) for neuroscientific research, which was a major source of funding for neuroscience labs like ours. Along with the near-term risk of large cuts in government funding, money anxiety has been brought back to the forefront of academic concerns.
 
 #### 5. Intensity
-Having spent many years around SF startup founders, I was used to a high-intensity all-out-ness, something sorely missing from academic culture. I usually start lab-related stuff at 10am and I'm almost always the last to leave the lab around 10pm. I fill my days with papers and wet lab and chemistry. In contrast, most people usually get in around noon and leave early evening. In part this is because some people work from home, but there are two other culprits: there's no incentive for intensity and researchers emphasize work-life balance.
+Having spent some years around SF startup founders, I was used to a high-intensity all-out-ness, something sorely missing from academic culture. I usually start lab-related stuff at 10am and I'm almost always the last to leave the lab around 10pm. I fill my days with papers and wet lab and chemistry. In contrast, most people usually get in around noon and leave early evening. In part this is because some people work from home, but there are two other culprits: there's no incentive for intensity and researchers emphasize work-life balance.
 
-In most startups, your company is constantly under competitive pressure and threats of running out of money. If you don't stay in the office until 1am, some other team will and they will outcompete you. There isn't time to take your time.
+In most startups, your company is constantly under competitive pressure and threats of running out of money. If you don't stay in the office until 1am, some other team will outcompete you and you will lose your job. There isn't time to take your time.
 
-The other thing is that most PhDs and postdocs are in their late 20s and early 30s, some of them have families and all of them have lives outside of lab. They're at a stage in life where work isn't so all-consuming, not to mention that academia is often chosen for its stability and certainty.
+The other thing is that most PhDs and postdocs are in their late 20s and early 30s, some of them have families and all of them have lives outside of lab. They're at a stage in life where work isn't so all-consuming.
 
 This is valid! Research isn't everything. I take some weekends off to make time for friends and road trips and personal interests. But the slower pace is something to keep in mind if you're thinking of doing research.
 

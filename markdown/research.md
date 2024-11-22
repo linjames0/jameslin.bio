@@ -36,9 +36,11 @@ Ed frequently questions the ambition of an idea: is it scalable? can we open-sou
 
 What struck me the most is that people (supposedly risk-averse academics!) join with the understanding they might not get *any papers* during their time at the lab. Many experiments fail and in big ways, but these are table stakes for great science. Some of our experiments end up working and they change the game.
 
+---
+
 It's hard to overstate how important these two cultural pillars are for facilitating risk-taking and innovation. It's equally important to note just how out-of-place this culture is in academia. Risk-taking is not the norm. Most labs are beholden to foreseeable, reliable results to secure grants and further funding. The kind of science that results from this kind of thinking is fundamentally uninteresting. It is necessary, yes, but in my view the best kind of science is aspirational with a chance of huge if true. 
 
-You can break this cycle, but only if you have a proven track record of stellar results or find funding sources willing to support your research vision.
+You can break this cycle, but only if you have a track record of stellar results or find funding sources willing to support your research vision.
 
 With that out of the way, a lot of things remain true across different research labs.
 
@@ -55,11 +57,11 @@ Or: advice on how to make the most of your time in lab.
     * Show up with something to contribute
     * The point is to build familiarity, reputation, and context
 * Shadow people
-    * When you’re new, just get your hands dirty and learn how to do grunt work well
+    * When you’re new, it's important to just get your hands dirty and learn how to do grunt work
     * Wet lab is rampant with tacit knowledge and you learn best by watching people actually run the experiments and then doing them yourself
     * In my first month I shadowed 6 postdocs, mostly to fill in for when my supervising postdoc was busy
         * I picked up wet lab skills and learned where various equipment was stationed
-        * I also got a sense for the different ways people do things and their rationales e.g. how strict each person was with cleanliness, when to use plastic vs glass pipettes, when to use normal vs hydrophobic plates, how much light exposure a given sample could afford, etc.
+        * I also got a sense for the different ways people do things and their reasoning e.g. how strict each person was with cleanliness, when to use plastic vs glass pipettes, when to use normal vs hydrophobic plates, how much light exposure a given sample could afford, etc.
 * Exceed expectations
     * For my first check-in with Ed, I prepared slides on how I was doing the equivalent of a fairly smart MIT grad student, and quickly realized that the bar was much higher than just that. Complacency is not always bad but it is always a choice.
     
@@ -70,7 +72,6 @@ Or: advice on how to make the most of your time in lab.
         * Ask them questions, watch how they explain hard concepts, gauge their openness to new ideas, shadow them if possible
     * My supervisor is the reason I chose the lab
         * After shadowing him for a few weeks, I realized that he could consistently explain down to Level 5 where most stop at Level 2
-
 * Ask, ask, ask
     * The best researchers in the lab are the ones who are asking the most questions
     * Keep asking questions until you can deliver a killer lecture on the topic
@@ -110,7 +111,7 @@ A lot has already been written about the failings of 'publish or perish' culture
 #### 1. Churn
 Academia has a systemic talent problem. Most labs only have one professor-level person because the tenure system incentivizes great researchers to leave the lab to start their own group. Graduate students are only there for certification, and they leave for other positions after. Funding is low so research techs and undergrads jump at opportunities in industry for higher pay.
 
-Because of this high level of churn, any given lab is often constrained by expertise. In industry, it's normal for people to stay at a single job for 10-20 years and in doing so they develop a deep domain expertise which is essential for hard technical breakthroughs. This is far more rare in academia, and you'll often be conversing with people who have only spent a year or two on their current project or even field. As a result, your ability to learn quickly on your own is essential because the experts are either inaccessible or nonexistent.
+Because of the high level of churn, any given lab is often constrained by expertise. In industry, it's normal for people to stay at a single job for 10-20 years and in doing so they develop a deep domain expertise which is essential for hard technical breakthroughs. This is far more rare in academia, and you'll often be conversing with people who have only spent a few years on their current project or even field. As a result, your ability to learn quickly on your own is essential because the experts for your specific problem are either inaccessible or nonexistent.
 
 #### 2. Competition
 Given the rate of talent turnover, collaboration with other research groups becomes all the more important. But here, too, there are incentive problems. It can be hard to initiate collaborations with labs in the same field because of the competitive politics  of publishing. Often, both groups are trying to publish first on similar discoveries. This causes a major conflict in authorship: who gets first author? second author? how do you split credit? which lab gets the patent? etc.
@@ -166,8 +167,8 @@ I'm not saying that there is no merit to academic labs—they are necessary to t
 
 ---
 
-*1. I cannot go without expressing a tremendous thank you to [Isaak Freeman](https://isaak.net/). He is the singular reason why I joined the lab. I called up Isaak on a weekday, he offered to show me around the lab, and I flew there the next week. He got me up to speed, introduced me to the people, and at every step was a persistent champion. Words cannot do my gratitude justice.*
+*1. I cannot go without expressing a tremendous thank you to [Isaak Freeman](https://isaak.net/). He is the singular reason why I joined the lab. I called up Isaak on a weekday, he offered to show me around the lab, and I flew there the next week. He got me up to speed on the research, introduced me to the people, and at every step was a persistent champion. Words cannot do my gratitude justice.*
 
 *2. Thanks to Ed for taking a chance on me and constantly pushing me through constructive criticism. Thanks to my postdoc Yangning who graciously took me under his wing, and has taught me so much chemistry and shown me how science gets done.*
 
-*3. Thanks also to Isaak Freeman, [Anson Yu](https://ansonyu.me/), [AJ Kourabi](https://www.ajkourabi.com/) for reading over initial drafts and providing feedback.*
+*3. Thanks to [Anson Yu](https://ansonyu.me/), Isaak Freeman, [AJ Kourabi](https://www.ajkourabi.com/) for reading over initial drafts and providing feedback.*

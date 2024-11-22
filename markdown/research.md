@@ -10,7 +10,7 @@
 
 I spent the past month in the Boyden Lab at MIT. The lab has a history of inventing scientific tools, including but not limited to: [optogenetics](<https://www.nature.com/articles/nn1525)>), [temporal interference](https://pmc.ncbi.nlm.nih.gov/articles/PMC5520675/), [expansion microscopy](https://www.nature.com/articles/s41592-018-0219-4), and [temporal multiplexed imaging](https://www.sciencedirect.com/science/article/pii/S0092867423012278). Any of these tools on their own could make an argument for a Nobel — to have discovered and developed several is indicative of a systematic process, a sound approach to producing great science.
 
-Apart from academic achievements, the lab has a history of spinning out companies working on [precision neuroimaging](https://e11.bio/), [AI for science](https://www.futurehouse.org/), and [wearable neurotechnologies](https://elemindtech.com/) to name a few. There is a deep understanding of what institutions are appropriate for the progress we hope to achieve.
+Apart from academic achievements, the lab has a history of spinning out companies working on [precision neuroimaging](https://e11.bio/), [AI for science](https://www.futurehouse.org/), and [wearable neurotechnologies](https://elemindtech.com/) (to name a few). There is a deep understanding of what institutions are appropriate for the progress we hope to achieve.
 
 I’m working on [nanoscale-imaging of C. elegans](https://pubmed.ncbi.nlm.nih.gov/35320565/) and in a future post I’ll do a deeper dive into my research. This post, however, is my attempt to distill observations on the *process* of doing great science from inside a world-class lab. This is not a guide to the 'publish or perish' flavor of science. I'm interested in how paradigms get torn down and rebuilt through the scientific method. There's magic here and it's working.
 
@@ -36,7 +36,9 @@ Ed frequently questions the ambition of an idea: is it scalable? can we open-sou
 
 What struck me the most is that people (supposedly risk-averse academics!) join with the understanding they might not get *any papers* during their time at the lab. Many experiments fail and in big ways, but these are table stakes for great science. Some of our experiments end up working and they change the game.
 
-It's hard to overstate how important these two cultural pillars are for facilitating risk-taking and innovation. It's equally important to note just how out-of-place this culture is in academia. Risk-taking is not the norm. Most labs are beholden to foreseeable, reliable results to secure grants and further funding. But the kind of science that results from this kind of thinking is fundamentally uninteresting. It is necessary, yes, but in my view the best kind of science is aspirational with a chance of huge if true.
+It's hard to overstate how important these two cultural pillars are for facilitating risk-taking and innovation. It's equally important to note just how out-of-place this culture is in academia. Risk-taking is not the norm. Most labs are beholden to foreseeable, reliable results to secure grants and further funding. The kind of science that results from this kind of thinking is fundamentally uninteresting. It is necessary, yes, but in my view the best kind of science is aspirational with a chance of huge if true. 
+
+You can break this cycle, but only if you have a proven track record of stellar results or find funding sources willing to support your research vision.
 
 With that out of the way, a lot of things remain true across different research labs.
 
@@ -44,15 +46,16 @@ With that out of the way, a lot of things remain true across different research 
 Or: advice on how to make the most of your time in lab.
 
 #### 1. You get what you put in
-* People are too busy to chase you
+* People are too busy to chase you, so you need to be self-motivated
 * Get to know everyone in the lab
     * Get context on what people are working on
     * People have already ran into the same problems and have thought about solutions
-    * This also opens doors for potential collaborations
+    * This also opens doors for potential collaborations - there may be synergies
 * Meetings aren't (totally) useless
     * Show up with something to contribute
     * The point is to build familiarity, reputation, and context
 * Shadow people
+    * When you’re new, just get your hands dirty and learn how to do grunt work well
     * Wet lab is rampant with tacit knowledge and you learn best by watching people actually run the experiments and then doing them yourself
     * In my first month I shadowed 6 postdocs, mostly to fill in for when my supervising postdoc was busy
         * I picked up wet lab skills and learned where various equipment was stationed
@@ -63,14 +66,21 @@ Or: advice on how to make the most of your time in lab.
 #### 2. Learning rate = feedback rate
 * The single-most important factor for choosing a lab is the quality of mentorship
     * Everything else is secondary to ensuring you have a great supervisor or PI
-    * My supervisor is the reason I chose the lab - he can explain down to Level 5 where most stop at Level 2
+    * Vet them before you join
+        * Ask them questions, watch how they explain hard concepts, gauge their openness to new ideas, shadow them if possible
+    * My supervisor is the reason I chose the lab
+        * After shadowing him for a few weeks, I realized that he could consistently explain down to Level 5 where most stop at Level 2
+
 * Ask, ask, ask
     * The best researchers in the lab are the ones who are asking the most questions
     * Keep asking questions until you can deliver a killer lecture on the topic
-    * Halting your line of questioning on Level 1 or 2 when you have *the* experts on the topic is a disservice to yourself
+    * In a lab, the people around you likely are the top 1% in terms of knowledge about their specific topics
+        * Halting your line of questioning on Level 1 or 2 when you have *the* experts on the topic is a disservice to yourself and to the world
 * Learn to learn from all criticism
-    * Many people are bad at delivering feedback - focus on content and not delivery
-    * There is always something to learn, even from (and especially from!) harsh or blunt feedback
+    * Focus on content and not delivery
+        * Most people are bad at delivering feedback
+    * There is always something to learn, even from harsh or blunt feedback
+    * Make an effort to ask for feedback, even if uncomfortable
 * Set up regular check-ins with your PI or postdoc
     * Your PI has the context on what everyone in the lab is doing, what other groups have tried, what approaches worked and what didn't etc.
     * You might have an impulse to come up with 'your own' ideas but you don't have to reinvent the wheel - there's likely an easier (and more elegant) solution to your problem already out there if you ask
@@ -103,7 +113,7 @@ Academia has a systemic talent problem. Most labs only have one professor-level 
 Because of this high level of churn, any given lab is often constrained by expertise. In industry, it's normal for people to stay at a single job for 10-20 years and in doing so they develop a deep domain expertise which is essential for hard technical breakthroughs. This is far more rare in academia, and you'll often be conversing with people who have only spent a year or two on their current project or even field. As a result, your ability to learn quickly on your own is essential because the experts are either inaccessible or nonexistent.
 
 #### 2. Competition
-Given the rate of talent turnover, collaboration with other groups becomes all the more important. But here, too, there are incentive problems. It can be hard to initiate collaborations with labs in the same field because of the competitive politics  of publishing. Often, both groups are trying to publish first on similar discoveries. This causes a major conflict in authorship: who gets first author? second author? how do you split credit? which lab gets the patent? etc.
+Given the rate of talent turnover, collaboration with other research groups becomes all the more important. But here, too, there are incentive problems. It can be hard to initiate collaborations with labs in the same field because of the competitive politics  of publishing. Often, both groups are trying to publish first on similar discoveries. This causes a major conflict in authorship: who gets first author? second author? how do you split credit? which lab gets the patent? etc.
 
 This is less of a problem *within* labs. Because people in our group are all working on their own differentiated projects, there's far less politics and competition. There's an open spirit of collaboration - we frequently share reagents, data, assist with teaching new techniques, send papers, and make introductions.
 
@@ -127,9 +137,11 @@ Our lab is large and for the most part we have access to state of the art equipm
 Relevant to this point: earlier this year the BRAIN Initiative announced a [budget cut of nearly $300M](https://www.thetransmitter.org/funding/278-million-cut-in-brain-initiative-funding-leaves-neuroscientists-in-limbo/) for neuroscientific research, which was a major source of funding for neuroscience labs like ours. Along with the near-term risk of large cuts in government funding, money anxiety has been brought back to the forefront of academic concerns.
 
 #### 5. Intensity
-Having spent some years around SF startup founders, I was used to a high-intensity all-out-ness, something sorely missing from academic culture. I usually start lab-related stuff at 10am and I'm almost always the last to leave the lab around 10pm. I fill my days with papers and wet lab and chemistry. In contrast, most people usually get in around noon and leave early evening. In part this is because some people work from home, but there are two other culprits: there's no incentive for intensity and researchers emphasize work-life balance.
+Having spent some years around SF startup founders, I was used to a high-intensity all-out-ness, something sorely missing from academic culture. I usually start lab-related stuff at 10am and I'm almost always the last to leave the lab around 10pm. I fill my days with papers and wet lab and chemistry. In contrast, most people usually get in around noon and leave early evening. In part this is because some people work from home, but there are two other culprits: there's often no incentive for intensity and researchers tend to emphasize work-life balance.
 
 In most startups, your company is constantly under competitive pressure and threats of running out of money. If you don't stay in the office until 1am, some other team will outcompete you and you will lose your job. There isn't time to take your time.
+
+In academia, there are similar pressures if you’re working in highly competitive research areas (think CRISPR engineering in 2012-2013). But for most labs, the research is niche enough (stochastic GEVI functionalization for neurons in *C. elegans*) that the competitive pressures *don’t feel* front and center.
 
 The other thing is that most PhDs and postdocs are in their late 20s and early 30s, some of them have families and all of them have lives outside of lab. They're at a stage in life where work isn't so all-consuming.
 
@@ -158,4 +170,4 @@ I'm not saying that there is no merit to academic labs—they are necessary to t
 
 *2. Thanks to Ed for taking a chance on me and constantly pushing me through constructive criticism. Thanks to my postdoc Yangning who graciously took me under his wing, and has taught me so much chemistry and shown me how science gets done.*
 
-*3. Thanks also to Isaak Freeman, [AJ Kourabi](https://www.ajkourabi.com/), and [Sigil Wen](https://sigilwen.ca/) for reading over initial drafts and providing feedback.*
+*3. Thanks also to Isaak Freeman, [Anson Yu](https://ansonyu.me/), [AJ Kourabi](https://www.ajkourabi.com/) for reading over initial drafts and providing feedback.*

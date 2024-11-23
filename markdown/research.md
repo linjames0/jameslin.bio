@@ -1,5 +1,5 @@
 # Observations from MIT's best neuroscience lab
-### November 14th, 2024
+### November 21th, 2024
 
 #### Table of Contents
 * How the Boyden Lab gets things done
@@ -122,7 +122,7 @@ This is less of a problem *within* labs. Because people in our group are all wor
 #### 3. Education
 I think what's often overlooked about researcher-types is that they are great at teaching. They have TA'd for classes, given lectures, described their work to family and relatives, and they write all the time (papers, grant proposals) explaining science to a general audience. Everyone is capable of explaining their research in depth, sometimes down to the atom but usually at least down to the level of cells. For people aspiring to be sponges, academic researchers are your ocean.
 
-But I've also been surprised how little people know outside of their own domains of expertise. Even at MIT, you can quickly become one of the lab experts on a relevant but niche area. Without exaggeration, I've met MD-PhDs who struggle with explaining basic chemistry and computational neuroscientists who don't know their way around a U-Net. It's striking to me because they would absolutely school me in their lane, but I've realized that my depth in several areas (CS, biology, neuroscience, physics) means that I usually have something to contribute to specialists.
+But I've also been surprised how little people know outside of their own domains of expertise. Even at MIT, you can quickly become one of the lab experts on a relevant but niche area. Without exaggeration, I've met MDs who struggle with explaining basic chemistry and computational biologists who don't know their way around a U-Net. It's striking to me because they would absolutely school me in their lane, but I've realized that my depth in several areas (CS, biology, neuroscience, physics) means that I usually have something to contribute to specialists.
 
 And it's been equally startling the extent to which people are resistant to learning about new fields. You would expect neuroscientists to have a little more synaptic plasticity but their learning pathways calcify just like the rest. However, there are some who constantly absorb knowledge regardless of domain and these people stand out in a crowded field.
 

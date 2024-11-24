@@ -91,6 +91,9 @@ Or: advice on how to make the most of your time in lab.
     * I initially wanted to work on two projects over the course of a few months, but Ed convinced me to focus on just one (1) project for 6 months
     * The time it takes to understand every angle of a scientific challenge is significant, and the hardest problems are soluble only through [undivided effort](https://jameslin.bio/focus)
     * I was forced to internalize longer timelines rather than jumping around collecting low-hanging fruit
+* Focus matters because attention to detail is critical
+    * The only way to do great, novel research is by questioning and examining every premise
+    * In science, every single detail of a protocol has a reason for being there. The reasoning might be strong, or it might be weak, and it's only through a deep understanding of every step that you can begin to interrogate and experiment with other conditions.
 * Often, people take on new projects after they encounter a tough roadblock when in reality that's when they should focus more
 
 #### 4. Relationships rule the world

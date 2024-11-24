@@ -109,7 +109,7 @@ Or: advice on how to make the most of your time in lab.
 Beyond the research process, there were some surprising things about academic culture I got to see firsthand.
 
 ## Academic culture
-A lot has already been written about the failings of 'publish or perish' culture so I won't go into detail on that. Instead, I want to make observations about the other forces that apply constant pressure across academia.
+A lot has already been written about the [failings of 'publish or perish' culture](https://jameshk.com/don-braben-scientific-freedom) so I won't go into detail on that. Instead, I want to make observations about the other forces that apply constant pressure across academia.
 
 #### 1. Churn
 Academia has a systemic talent problem. Most labs only have one professor-level person because the tenure system incentivizes great researchers to leave the lab to start their own group. Graduate students are only there for certification, and they leave for other positions after. Funding is low so research techs and undergrads jump at opportunities in industry for higher pay.
@@ -151,22 +151,24 @@ The other thing is that most PhDs and postdocs are in their late 20s and early 3
 
 This is valid! Research isn't everything. I take some weekends off to make time for friends and road trips and personal interests. But the slower pace is something to keep in mind if you're thinking of doing research.
 
-## Closing thoughts
-The incentives of academic labs create a fantastic learning environment to pick up skills and experience, but the environment is not conducive to fast-paced execution of projects. You would need [another kind of institution](https://www.convergentresearch.org/) for that. That said, there are many slower-paced, longer-term scientific ambitions which are only possible in an academic setting. [The Human Genome Project](https://www.genome.gov/human-genome-project) was a $3B effort to sequence the human genome with thin financial justification at the time, and yet a consortium of academic labs came together and made it happen. The scientific and medical communities have since reaped the benefits of cheap, ubiquitous, scalable sequencing.
-
-Our lab is particularly concerned with mapping the human brain—referred to as the [Human Connectome Project](https://neuroscienceblueprint.nih.gov/human-connectome/connectome-programs)—and developing the key neurotechnologies that come out of that research. It's unclear what the financial incentives are for such a project, but it will undoubtedly have great consequences for our understanding of the most complex organ known to man. If you're interested in funding or supporting the effort in any way, shoot me an email @ [linjames@mit.edu](mailto:linjames@mit.edu). We're constantly looking to work with great scientists who can learn fast.
-
----
+## A New Age
+> Your assumptions are your windows on the world. Scrub them off every once in a while, or the light won't come in.\
+\
+— Alan Ada
 
 Now, a question has surfaced and lingers on my mind: are academic labs the best place for science? The Boyden Lab is the best case for an academic lab but definitely not representative of most academic environments.
 
-In recent years, [Focused Research Organizations](https://www.convergentresearch.org/) (cofounded by Boyden Lab alum) have taken the spotlight as experimental attempts to reshape how science gets done. It's not clear how these attempts will shake out but they seem to be moving us in the right direction.
+To start, there are many slower-paced, longer-term scientific ambitions which have historically only been possible in an academic setting. [The Human Genome Project](https://www.genome.gov/human-genome-project) was a $3B effort to sequence the human genome with thin financial justification at the time, and yet a consortium of academic labs came together and made it happen. The scientific and medical communities have since reaped the benefits of cheap, ubiquitous, scalable sequencing.
 
-This year alone has brought along a wave of successes for new institutions of science. [The Arc Institute](https://arcinstitute.org/news/blog/evo) released an impressive biological foundation model called Evo. HuggingFace, arxiv, and private AI labs together facilitated extraordinary progress in machine learning. DeepMind shared the Nobel Prize in Chemistry for their development and [open-sourcing](https://www.nature.com/articles/d41586-024-03708-4) of AlphaFold which has enabled the prediction of millions of protein structures. They have done so while achieving breakthrough results in solving complex math problems, chip design, sorting algorithms, energy efficiency, matrix operations, and competitive programming. I think they are the closest thing we have to a modern day Bell Labs.
+Our lab is particularly concerned with mapping the human brain—referred to as the [Human Connectome Project](https://neuroscienceblueprint.nih.gov/human-connectome/connectome-programs)—and developing the key neurotechnologies that come out of that research. It's unclear what the financial incentives are for such a project, but it will undoubtedly have great consequences for our understanding of the most complex organ known to man. If you're interested in funding or supporting the effort in any way, shoot me an email @ [linjames@mit.edu](mailto:linjames@mit.edu). We're constantly looking to work with great scientists who can learn fast.
+
+On the other side, [Focused Research Organizations](https://www.convergentresearch.org/) (cofounded by Boyden Lab alum) have taken the spotlight in recent years as experimental attempts to reshape how science gets done. It's not clear how these attempts will shake out but they seem to be moving us in the right direction.
+
+In parallel, this year has brought along a wave of successes for new institutions of science. [The Arc Institute](https://arcinstitute.org/news/blog/evo) released an impressive biological foundation model called Evo. HuggingFace, arxiv, and private AI labs together facilitated extraordinary progress in machine learning. DeepMind shared the Nobel Prize in Chemistry for their development and [open-sourcing](https://www.nature.com/articles/d41586-024-03708-4) of AlphaFold which has enabled the prediction of millions of protein structures. They have done so while achieving breakthrough results in solving complex math problems, chip design, sorting algorithms, energy efficiency, matrix operations, and competitive programming. I think they are the closest thing we have to a modern day [Bell Labs](https://en.wikipedia.org/wiki/Bell_Labs).
 
 These are all examples of institutions outside of government and academia which have made an irrefutable case for their ability to do great science. Particularly, open-source approaches have demonstrated remarkable success in accelerating progress on scientific problems.
 
-I'm not saying that there is no merit to academic labs—they are necessary to the scientific apparatus. What I *am* questioning is whether they are the best place for breakthrough research. More and more, I think not. Talent churns, funding is constrained, and research moves forward at a glacial pace. Perhaps it's time to reconsider how we go about uncovering nature's mysteries.
+I'm not saying that there is no merit to academic labs—they are necessary to the scientific apparatus, and the incentives of academic labs create a fantastic learning environment to pick up skills and experience. What I *am* questioning is whether they are the best place for breakthrough research. More and more, I think not. Talent churns, funding is constrained, and research moves forward at a glacial pace. Perhaps it's time to reconsider how we go about uncovering nature's mysteries.
 
 ---
 

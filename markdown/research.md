@@ -30,7 +30,7 @@ On the other hand, because everyone is working on their own thing, it can someti
 
 
 #### 2. Go for gold
-The lab culture is a severe rejection of incrementalism. We want to innovate and redefine, not optimize p-values or benchmarks. Be damned if our research isn't at least Nobel-worthy.
+The lab culture is a severe rejection of incrementalism. We want to innovate and redefine, not optimize p-values or benchmarks.
 
 Ed frequently questions the ambition of an idea: is it scalable? can we open-source the method for all labs? how does this fundamentally change how science gets done? He also constantly pushes for us to invert the premise: what if we didn't try to image smaller things? what if instead [we made them bigger](https://www.nature.com/articles/s41592-018-0219-4)? Most of the time when you invert you arrive at something that sounds ridiculous, but on those rare occasions where the conclusion gives you a pause, you're on the cusp of revolution.
 

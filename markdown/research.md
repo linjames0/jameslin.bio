@@ -28,8 +28,12 @@ Through this flat structure, he facilitates highly efficient top-down decision-m
 
 On the other hand, because everyone is working on their own thing, it can sometimes feel like people are all moving in different directions instead of toward a single concerted goal. Some of the best work in the lab is collaborative, which can be harder to enforce when people by default work independently.
 
+#### 2. Extreme diversity of ideas
+Though the main focus of the lab is neuroscience, there are also lab members working on engineering synthetic cells, sulfur-capturing microbes, implosion fabrication, expansion of cell culture, brain simulations, spatial transcriptomics, optogenetics drug delivery, biological foundation models, and on and on.
 
-#### 2. Go for gold
+Because there are so many flavors of science in a single place, I've gotten to sample dozens of different approaches to research and observe other fields, which has led to unlikely collaborations with people in seemingly unrelated areas. I realized that a big part of science is finding great ideas from all corners and putting them together, something that's hard to do in a homogenous lab setting.
+
+#### 3. Go for gold
 The lab culture is a severe rejection of incrementalism. We want to innovate and redefine, not optimize p-values or benchmarks.
 
 Ed frequently questions the ambition of an idea: is it scalable? can we open-source the method for all labs? how does this fundamentally change how science gets done? He also constantly pushes for us to invert the premise: what if we didn't try to image smaller things? what if instead [we made them bigger](https://www.nature.com/articles/s41592-018-0219-4)? Most of the time when you invert you arrive at something that sounds ridiculous, but on those rare occasions where the conclusion gives you a pause, you're on the cusp of revolution.
@@ -38,7 +42,7 @@ What struck me the most is that people (supposedly risk-averse academics!) join 
 
 ---
 
-It's hard to overstate how important these two cultural pillars are for facilitating risk-taking and innovation. It's equally important to note just how out-of-place this culture is in academia. Risk-taking is not the norm. Most labs are beholden to foreseeable, reliable results to secure grants and further funding. The kind of science that results from this kind of thinking is fundamentally uninteresting. It is necessary, yes, but in my view the best kind of science is aspirational with a chance of huge if true. 
+It's hard to overstate how important these cultural pillars are for facilitating risk-taking and innovation. It's equally important to note just how out-of-place this culture is in academia. Risk-taking is not the norm. Most labs are beholden to foreseeable, reliable results to secure grants and further funding. The kind of science that results from this kind of thinking is fundamentally uninteresting. It is necessary, yes, but in my view the best kind of science is aspirational with a chance of huge if true. 
 
 You can break this cycle, but only if you have a track record of stellar results or find funding sources willing to support your research vision.
 

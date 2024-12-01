@@ -29,9 +29,9 @@ Through this flat structure, he facilitates highly efficient top-down decision-m
 On the other hand, because everyone is working on their own thing, it can sometimes feel like people are all moving in different directions instead of toward a single concerted goal. Some of the best work in the lab is collaborative, which can be harder to enforce when people by default work independently.
 
 #### 2. Extreme diversity of ideas
-Though the main focus of the lab is neuroscience, there are also lab members working on engineering synthetic cells, sulfur-capturing microbes, implosion fabrication, expansion of cell culture, brain simulations, spatial transcriptomics, optogenetics drug delivery, biological foundation models, and on and on.
+Though the main focus of the lab is neuroscience, we have lab members working on engineering synthetic cells, sulfur-capturing microbes, implosion fabrication, expansion of cell culture, brain simulations, spatial transcriptomics, optogenetics drug delivery, biological foundation models, and on and on.
 
-Because there are so many flavors of science in a single place, I've gotten to sample dozens of different approaches to research and observe other fields, which has led to unlikely collaborations with people in seemingly unrelated areas. I realized that a big part of science is finding great ideas from all corners and putting them together, something that's hard to do in a homogenous lab setting.
+Because there are so many flavors of science in a single place, I've gotten to sample dozens of different approaches to research and observe other fields, which has led to unlikely collaborations with people in seemingly unrelated areas. Personally, talking with postdocs specializing in material science and EM chemistry helped me refine concrete ideas for expanding worms. I realized that a big part of research is finding great ideas from all corners of science and putting them together, which is facilitated by a diverse research group.
 
 #### 3. Go for gold
 The lab culture is a severe rejection of incrementalism. We want to innovate and redefine, not optimize p-values or benchmarks.
@@ -42,9 +42,7 @@ What struck me the most is that people (supposedly risk-averse academics!) join 
 
 ---
 
-It's hard to overstate how important these cultural pillars are for facilitating risk-taking and innovation. It's equally important to note just how out-of-place this culture is in academia. Risk-taking is not the norm. Most labs are beholden to foreseeable, reliable results to secure grants and further funding. The kind of science that results from this kind of thinking is fundamentally uninteresting. It is necessary, yes, but in my view the best kind of science is aspirational with a chance of huge if true. 
-
-You can break this cycle, but only if you have a track record of stellar results or find funding sources willing to support your research vision.
+It's hard to overstate how important these cultural pillars are for facilitating risk-taking and innovation. It's equally important to note just how out-of-place this culture is in academia. Risk-taking is not the norm. Most labs are beholden to foreseeable, reliable results to secure grants and further funding. The kind of science that results from incremental thinking is fundamentally uninteresting. It is necessary, yes, but in my view the best kind of science is aspirational with a chance of huge if true.
 
 With that out of the way, a lot of things remain true across different research labs.
 
@@ -129,7 +127,7 @@ This is less of a problem *within* labs. Because people in our group are all wor
 #### 3. Education
 I think what's often overlooked about researcher-types is that they are great at teaching. They have TA'd for classes, given lectures, described their work to family and relatives, and they write all the time (papers, grant proposals) explaining science to a general audience. Everyone is capable of explaining their research in depth, sometimes down to the atom but usually at least down to the level of cells. For people aspiring to be sponges, academic researchers are your ocean.
 
-But I've also been surprised how little people know outside of their own domains of expertise. Even at MIT, you can quickly become one of the lab experts on a relevant but niche area. Without exaggeration, I've met MDs who struggle with explaining basic chemistry and computational biologists who don't know their way around a U-Net. It's striking to me because they would absolutely school me in their lane, but I've realized that my depth in several areas (CS, biology, neuroscience, physics) means that I usually have something to contribute to specialists.
+But I've also been surprised how little people know outside of their own domains of expertise. Even at MIT, you can quickly become one of the lab experts on a relevant but niche area. Without exaggeration, I've met MDs who struggle with explaining organic chemistry and computational biologists who don't know their way around a U-Net. It's striking to me because they would absolutely school me in their lane, but I've realized that my depth in several areas (CS, biology, neuroscience, physics) means that I usually have something to contribute to specialists.
 
 And it's been equally startling the extent to which people are resistant to learning about new fields. You would expect neuroscientists to have a little more synaptic plasticity but their learning pathways calcify just like the rest. However, there are some who constantly absorb knowledge regardless of domain and these people stand out in a crowded field.
 
@@ -180,4 +178,4 @@ I'm not saying that there is no merit to academic labs—they are necessary to t
 
 *2. Thanks to Ed for taking a chance on me and constantly pushing me through constructive criticism. Thanks to my postdoc Yangning who graciously took me under his wing, and has taught me so much chemistry and shown me how science gets done.*
 
-*3. Thanks to [Anson Yu](https://ansonyu.me/), Isaak Freeman, [AJ Kourabi](https://www.ajkourabi.com/) for reading over initial drafts and providing feedback.*
+*3. Thanks to [Anson Yu](https://ansonyu.me/), Isaak Freeman, [AJ Kourabi](https://www.ajkourabi.com/), Tony Kulesa for reading over initial drafts and providing feedback.*

@@ -50,7 +50,7 @@ With that out of the way, a lot of things remain true across different research 
 Or: advice on how to make the most of your time in lab.
 
 #### 1. You get what you put in
-* People are too busy to chase you, so you need to be self-motivated
+* People are too busy to chase you
 * Get to know everyone in the lab
     * Get context on what people are working on
     * People have already ran into the same problems and have thought about solutions
@@ -122,7 +122,6 @@ Because of the high level of churn, any given lab is often constrained by expert
 Given the rate of talent turnover, collaboration with other research groups becomes all the more important. But here, too, there are incentive problems. It can be hard to initiate collaborations with labs in the same field because of the competitive politics  of publishing. Often, both groups are trying to publish first on similar discoveries. This causes a major conflict in authorship: who gets first author? second author? how do you split credit? which lab gets the patent? etc.
 
 This is less of a problem *within* labs. Because people in our group are all working on their own differentiated projects, there's far less politics and competition. There's an open spirit of collaboration - we frequently share reagents, data, assist with teaching new techniques, send papers, and make introductions.
-
 
 #### 3. Education
 I think what's often overlooked about researcher-types is that they are great at teaching. They have TA'd for classes, given lectures, described their work to family and relatives, and they write all the time (papers, grant proposals) explaining science to a general audience. Everyone is capable of explaining their research in depth, sometimes down to the atom but usually at least down to the level of cells. For people aspiring to be sponges, academic researchers are your ocean.

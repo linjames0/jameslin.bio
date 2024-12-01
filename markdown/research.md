@@ -78,7 +78,7 @@ Or: advice on how to make the most of your time in lab.
     * The best researchers in the lab are the ones who are asking the most questions
     * Keep asking questions until you can deliver a killer lecture on the topic
     * In a lab, the people around you likely are the top 1% in terms of knowledge about their specific topics
-        * Halting your line of questioning on Level 1 or 2 when you have *the* experts on the topic is a disservice to yourself and to the world
+        * Halting your line of questioning on Level 1 or 2 when you have *the* experts on the topic is a disservice to yourself
 * Learn to learn from all criticism
     * Focus on content and not delivery
         * Most people are bad at delivering feedback

@@ -89,7 +89,7 @@ Or: advice on how to make the most of your time in lab.
     * You might have an impulse to come up with 'your own' ideas but you don't have to reinvent the wheel - there's likely an easier (and more elegant) solution to your problem already out there if you ask
 
 #### 3. Focus
-* If you want to do great research, you cannot split your attention between projects
+* **If you want to do great research, you cannot split your attention between projects**
     * I initially wanted to work on two projects over the course of a few months, but Ed convinced me to focus on just one (1) project for 6 months
     * The time it takes to understand every angle of a scientific challenge is significant, and the hardest problems are soluble only through [undivided effort](https://jameslin.bio/focus)
     * I was forced to internalize longer timelines rather than jumping around collecting low-hanging fruit

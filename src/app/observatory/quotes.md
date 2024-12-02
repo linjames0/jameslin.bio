@@ -24,6 +24,10 @@ Who I am, in glances and snapshots.
 >
 > *— Confucius*
 
+> Quit, don't quit... Noodles, don't noodles... You are too concerned about what was and what will be.
+> 
+> *—Master Oogway*
+
 > Alice: “Would you tell me, please, which way I ought to go from here?”
 >
 > The Cheshire Cat: “That depends a good deal on where you want to get to.”

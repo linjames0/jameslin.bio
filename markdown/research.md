@@ -54,15 +54,15 @@ Or: advice on how to make the most of your time in lab.
     * Get context on what people are working on
     * People have already ran into the same problems and have thought about solutions
     * This also opens doors for potential collaborations - there may be synergies
-* Meetings aren't (totally) useless
-    * Show up with something to contribute
-    * The point is to build familiarity, reputation, and context
 * Shadow people
     * When you’re new, it's important to just get your hands dirty and learn how to do grunt work
     * Wet lab is rampant with tacit knowledge and you learn best by watching people actually run the experiments and then doing them yourself
     * In my first month I shadowed 6 postdocs, mostly to fill in for when my supervising postdoc was busy
         * I picked up wet lab skills and learned where various equipment was stationed
         * I also got a sense for the different ways people do things and their reasoning e.g. how strict each person was with cleanliness, when to use plastic vs glass pipettes, when to use normal vs hydrophobic plates, how much light exposure a given sample could afford, etc.
+* Meetings aren't (totally) useless
+    * Show up with something to contribute
+    * The point is to build familiarity, reputation, and context
 * Exceed expectations
     * For my first check-in with Ed, I prepared slides on how I was doing the equivalent of a decent MIT grad student, and quickly realized that the bar was much higher than just that. Complacency is always a choice.
     

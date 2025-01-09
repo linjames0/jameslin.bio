@@ -50,7 +50,6 @@ With that out of the way, a lot of things remain true across different research 
 Or: advice on how to make the most of your time in lab.
 
 #### 1. You get what you put in
-* People are too busy to chase you
 * Get to know everyone in the lab
     * Get context on what people are working on
     * People have already ran into the same problems and have thought about solutions

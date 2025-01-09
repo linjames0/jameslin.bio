@@ -35,7 +35,7 @@ Who I am, in glances and snapshots.
 > 
 > *— Lao Tzu*
 
-> Love was an action, an instinct, a response roused by unplanned moments and small gestures, an inconvenience in someone else’s favor.”
+> Love was an action, an instinct, a response roused by unplanned moments and small gestures, an inconvenience in someone else’s favor.
 > 
 > *— Michelle Zauner, Crying in H Mart*
 

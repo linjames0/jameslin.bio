@@ -1,5 +1,5 @@
 # Observations from MIT's best neuroscience lab
-### November 21th, 2024
+### Jan 10th, 2025
 
 #### Table of Contents
 * How the Boyden Lab gets things done
@@ -42,7 +42,7 @@ What struck me the most is that people (supposedly risk-averse academics!) join 
 
 ---
 
-It's hard to overstate how important these cultural pillars are for facilitating risk-taking and innovation. It's equally important to note just how out-of-place this culture is in academia. Risk-taking is not the norm. Most labs are beholden to foreseeable, reliable results to secure grants and further funding. The kind of science that results from incremental thinking is fundamentally uninteresting. It is necessary, yes, but in my view the best kind of science is aspirational with a chance of huge if true.
+It's hard to overstate how important these cultural pillars are for facilitating risk-taking and innovation. Risk-taking is not the norm. Most labs are beholden to foreseeable, reliable results to secure grants and further funding, but the kind of science that results from incremental thinking is fundamentally uninteresting. It is necessary, yes, but in my view the best kind of science is aspirational with a chance of huge if true.
 
 With that out of the way, a lot of things remain true across different research labs.
 

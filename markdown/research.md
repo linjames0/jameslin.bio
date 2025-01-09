@@ -22,7 +22,7 @@ Size does matter when you're running a 50-person lab. Most labs this large tend 
 
 * Researchers have full agency over their own projects
 * Anyone can email him directly anytime
-* Lab members refer to him as just Ed
+* Ed does monthly 1-on-1s with every single lab member
 
 Through this flat structure, he facilitates highly efficient top-down decision-making and kills seniority politics. You don't need to go through a chain of authority to reach him. Even undergrads can propose and run their own experiments if the ideas are good. It's a highly merit-based culture.
 
@@ -124,11 +124,11 @@ Given the rate of talent turnover, collaboration with other research groups beco
 This is less of a problem *within* labs. Because people in our group are all working on their own differentiated projects, there's far less politics and competition. There's an open spirit of collaboration - we frequently share reagents, data, assist with teaching new techniques, send papers, and make introductions.
 
 #### 3. Education
-I think what's often overlooked about researcher-types is that they are great at teaching. They have TA'd for classes, given lectures, described their work to family and relatives, and they write all the time (papers, grant proposals) explaining science to a general audience. Everyone is capable of explaining their research in depth, sometimes down to the atom but usually at least down to the level of cells. For people aspiring to be sponges, academic researchers are your ocean.
+I think what's often overlooked about researcher-types is that they are excellent at teaching. They have TA'd for classes, given lectures, described their work to family and relatives, and they write all the time (papers, grant proposals) explaining science to a general audience. Everyone is capable of explaining their research in depth, sometimes down to the atom but usually at least down to the level of cells. For people aspiring to be sponges, academic researchers are your ocean.
 
-But I've also been surprised how little people know outside of their own domains of expertise. Even at MIT, you can quickly become one of the lab experts on a relevant but niche area. Without exaggeration, I've met MDs who struggle with explaining organic chemistry and computational biologists who don't know their way around a U-Net. It's striking to me because they would absolutely school me in their lane, but I've realized that my depth in several areas (CS, biology, neuroscience, physics) means that I usually have something to contribute to specialists.
+But I've also been surprised how little people know outside of their own domains of expertise. Even at MIT, you can quickly become one of the lab experts on a relevant but niche area. Chemists and neuroscientists absolutely school me in their lane, but I've realized that my depth in several areas (CS, biology, neuroscience, physics) means that I usually have something to contribute to specialists.
 
-And it's been equally startling the extent to which people are resistant to learning about new fields. You would expect neuroscientists to have a little more synaptic plasticity but their learning pathways calcify just like the rest. However, there are some who constantly absorb knowledge regardless of domain and these people stand out in a crowded field.
+And it's been equally startling the extent to which people are resistant to learning about new fields. Even neuroscientists struggle sometimes with synaptic plasticity. However, there are some who constantly absorb knowledge regardless of domain and these people stand out in a crowded field.
 
 #### 4. Funding
 Two things can be true at once - there is a lot of funding in academia, and funding is a constant constraint. Most small labs operate on $500k a year and for the larger ones annual funding can be upwards of $5M.
@@ -139,7 +139,7 @@ What this feels like on the ground is a confusing contradiction. Many researcher
 
 Our lab is large and for the most part we have access to state of the art equipment and reagents. We're also much more careful about preventing waste and minimizing administrative bloat. But because of our size we incur greater overhead than most labs. 
 
-Relevant to this point: earlier this year the BRAIN Initiative announced a [budget cut of nearly $300M](https://www.thetransmitter.org/funding/278-million-cut-in-brain-initiative-funding-leaves-neuroscientists-in-limbo/) for neuroscientific research, which was a major source of funding for neuroscience labs like ours. Along with the near-term risk of large cuts in government funding, money anxiety has been brought back to the forefront of academic concerns.
+Relevant to this point: earlier last year the BRAIN Initiative announced a [budget cut of nearly $300M](https://www.thetransmitter.org/funding/278-million-cut-in-brain-initiative-funding-leaves-neuroscientists-in-limbo/) for neuroscientific research, which was a major source of funding for neuroscience labs like ours. Along with the near-term risk of large cuts in government funding, money anxiety has been brought back to the forefront of academic concerns.
 
 #### 5. Intensity
 Having spent some years around SF startup founders, I was used to a high-intensity all-out-ness, something sorely missing from academic culture. I usually start lab-related stuff at 10am and I'm almost always the last to leave the lab around 10pm. In contrast, most people usually get in around noon and leave early evening. In part this is because some people work from home, but there are two other culprits: there's often no incentive for intensity and researchers tend to emphasize work-life balance.
@@ -165,7 +165,7 @@ Our lab is particularly concerned with mapping the human brain—referred to as 
 
 On the other side, [Focused Research Organizations](https://www.convergentresearch.org/) (cofounded by Boyden Lab alum) have taken the spotlight in recent years as experimental attempts to reshape how science gets done. It's not clear how these attempts will shake out but they seem to be moving us in the right direction.
 
-In parallel, this year has brought along a wave of successes for new institutions of science. [The Arc Institute](https://arcinstitute.org/news/blog/evo) released an impressive biological foundation model called Evo. HuggingFace, arxiv, and private AI labs together facilitated extraordinary progress in machine learning. DeepMind shared the Nobel Prize in Chemistry for their development and [open-sourcing](https://www.nature.com/articles/d41586-024-03708-4) of AlphaFold which has enabled the prediction of millions of protein structures. They have done so while achieving breakthrough results in solving complex math problems, chip design, sorting algorithms, energy efficiency, matrix operations, and competitive programming. I think they are the closest thing we have to a modern day [Bell Labs](https://en.wikipedia.org/wiki/Bell_Labs).
+In parallel, last year has brought along a wave of successes for new institutions of science. [The Arc Institute](https://arcinstitute.org/news/blog/evo) released an impressive biological foundation model called Evo. HuggingFace, arxiv, and private AI labs together facilitated extraordinary progress in machine learning. DeepMind shared the Nobel Prize in Chemistry for their development and [open-sourcing](https://www.nature.com/articles/d41586-024-03708-4) of AlphaFold which has enabled the prediction of millions of protein structures. They have done so while achieving breakthrough results in solving complex math problems, chip design, sorting algorithms, energy efficiency, matrix operations, and competitive programming. I think they are the closest thing we have to a modern day [Bell Labs](https://en.wikipedia.org/wiki/Bell_Labs).
 
 These are all examples of institutions outside of government and academia which have made an irrefutable case for their ability to do great science. Particularly, open-source approaches have demonstrated remarkable success in accelerating progress on scientific problems.
 
@@ -177,4 +177,4 @@ I'm not saying that there is no merit to academic labs—they are necessary to t
 
 *2. Thanks to Ed for taking a chance on me and constantly pushing me through constructive criticism. Thanks to my postdoc Yangning who graciously took me under his wing, and has taught me so much chemistry and shown me how science gets done.*
 
-*3. Thanks to [Anson Yu](https://ansonyu.me/), Isaak Freeman, [AJ Kourabi](https://www.ajkourabi.com/), Tony Kulesa for reading over initial drafts and providing feedback.*
+*3. Thanks to [Anson Yu](https://ansonyu.me/), [Isaak Freeman](https://isaak.net/), [AJ Kourabi](https://www.ajkourabi.com/), [Jolie Gan](https://www.joliegan.com/), [Tony Kulesa](https://x.com/kulesatony) for reading over initial drafts and providing feedback.*

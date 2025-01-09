@@ -14,7 +14,7 @@ Apart from academic achievements, the lab has a history of spinning out companie
 
 I’m working on [nanoscale-imaging of C. elegans](https://pubmed.ncbi.nlm.nih.gov/35320565/) and in a future post I’ll do a deeper dive into my research. This post, however, is my attempt to distill observations on the *process* of doing great science from inside a world-class lab. This is not a guide to the 'publish or perish' flavor of science. I'm interested in how paradigms get torn down and rebuilt through the scientific method. There's magic here and it's working.
 
-## How We Get Things Done
+## How we get things done
 It's worth noting that the Boyden Lab is atypical in some important ways:
 
 #### 1. Flat hierarchy
@@ -46,7 +46,7 @@ It's hard to overstate how important these cultural pillars are for facilitating
 
 With that out of the way, a lot of things remain true across different research labs.
 
-## What To Know About Research
+## What to know about research
 Or: advice on how to make the most of your time in lab.
 
 #### 1. You get what you put in
@@ -109,7 +109,7 @@ Or: advice on how to make the most of your time in lab.
 
 Beyond the research process, there were some surprising things about academic culture I got to see firsthand.
 
-## Academic Culture
+## Academic culture
 A lot has already been written about the [failings of 'publish or perish' culture](https://jameshk.com/don-braben-scientific-freedom) so I won't go into detail on that. Instead, I want to make observations about the other forces that apply constant pressure across academia.
 
 #### 1. Churn
@@ -151,7 +151,7 @@ The other thing is that most PhDs and postdocs are in their late 20s and early 3
 
 This is valid! Research isn't everything. I take some weekends off to make time for friends and road trips and personal interests. But the slower pace is something to keep in mind if you're thinking of doing research.
 
-## A New Age
+## A new age
 > Your assumptions are your windows on the world. Scrub them off every once in a while, or the light won't come in.\
 \
 — Alan Ada

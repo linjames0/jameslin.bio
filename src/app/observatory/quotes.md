@@ -12,21 +12,13 @@ Who I am, in glances and snapshots.
 > 
 > *— Diane Ackerman*
 
-> So comes snow after fire, and even dragons have their ending
->
-> *— J.R.R. Tolkien*
-
-> When do you think people die? When they are shot through the heart by the bullet of a pistol? No. When they are ravaged by an incurable disease? No. When they drink a soup made from a poisonous mushroom!? No! It’s when… they are forgotten.
-> 
-> *— Dr. Hiriluk, One Piece*
-
 > The man who moves a mountain begins by carrying away small stones
 >
 > *— Confucius*
 
 > Quit, don't quit... Noodles, don't noodles... You are too concerned about what was and what will be.
 > 
-> *—Master Oogway*
+> *— Master Oogway*
 
 > Alice: “Would you tell me, please, which way I ought to go from here?”
 >
@@ -42,6 +34,10 @@ Who I am, in glances and snapshots.
 > Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.
 > 
 > *— Lao Tzu*
+
+> Love was an action, an instinct, a response roused by unplanned moments and small gestures, an inconvenience in someone else’s favor.”
+> 
+> *— Michelle Zauner, Crying in H Mart*
 
 > One would have thought that nothing could be simpler than for him, a man of good family, rather rich than poor, and thirty-two years old, to make the young Princess Shtcherbatskaya an offer of marriage; in all likelihood he would at once have been looked upon as a good match. But Levin was in love, and so it seemed to him that Kitty was so perfect in every respect that she was a creature far above everything earthly; and that he was a creature so low and so earthly that it could not even be conceived that other people and she herself could regard him as worthy of her.
 >

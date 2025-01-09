@@ -8,13 +8,13 @@
 
 ---
 
-I spent the past month in the [Boyden Lab](https://synthneuro.org/) at MIT. The lab is run by [Ed](https://synthneuro.org/people/ed-boyden/) and has a history of inventing scientific tools, including but not limited to: [optogenetics](<https://www.nature.com/articles/nn1525)>), [temporal interference](https://pmc.ncbi.nlm.nih.gov/articles/PMC5520675/), [expansion microscopy](https://www.nature.com/articles/s41592-018-0219-4), and [temporal multiplexed imaging](https://www.sciencedirect.com/science/article/pii/S0092867423012278). Any of these tools on their own could make an argument for a Nobel — to have discovered and developed several is indicative of a systematic process, a sound approach to producing great science.
+I spent the past 2 months in the [Boyden Lab](https://synthneuro.org/) at MIT. The lab is run by [Ed](https://synthneuro.org/people/ed-boyden/) and has a history of inventing scientific tools, including but not limited to: [optogenetics](<https://www.nature.com/articles/nn1525)>), [temporal interference](https://pmc.ncbi.nlm.nih.gov/articles/PMC5520675/), [expansion microscopy](https://www.nature.com/articles/s41592-018-0219-4), and [temporal multiplexed imaging](https://www.sciencedirect.com/science/article/pii/S0092867423012278). Any of these tools on their own could make an argument for a Nobel — to have discovered and developed several is indicative of a systematic process, a sound approach to producing great science.
 
 Apart from academic achievements, the lab has a history of spinning out companies working on [precision neuroimaging](https://e11.bio/), [AI for science](https://www.futurehouse.org/), and [wearable neurotechnologies](https://elemindtech.com/) to name a few. Here, there is a deep understanding of what institutions are appropriate for the progress we hope to achieve.
 
 I’m working on [nanoscale-imaging of C. elegans](https://pubmed.ncbi.nlm.nih.gov/35320565/) and in a future post I’ll do a deeper dive into my research. This post, however, is my attempt to distill observations on the *process* of doing great science from inside a world-class lab. This is not a guide to the 'publish or perish' flavor of science. I'm interested in how paradigms get torn down and rebuilt through the scientific method. There's magic here and it's working.
 
-## How we get things done
+## How We Get Things Done
 It's worth noting that the Boyden Lab is atypical in some important ways:
 
 #### 1. Flat hierarchy
@@ -46,7 +46,7 @@ It's hard to overstate how important these cultural pillars are for facilitating
 
 With that out of the way, a lot of things remain true across different research labs.
 
-## What to know about research
+## What To Know About Research
 Or: advice on how to make the most of your time in lab.
 
 #### 1. You get what you put in
@@ -65,7 +65,7 @@ Or: advice on how to make the most of your time in lab.
         * I picked up wet lab skills and learned where various equipment was stationed
         * I also got a sense for the different ways people do things and their reasoning e.g. how strict each person was with cleanliness, when to use plastic vs glass pipettes, when to use normal vs hydrophobic plates, how much light exposure a given sample could afford, etc.
 * Exceed expectations
-    * For my first check-in with Ed, I prepared slides on how I was doing the equivalent of a fairly smart MIT grad student, and quickly realized that the bar was much higher than just that. Complacency is not always bad but it is always a choice.
+    * For my first check-in with Ed, I prepared slides on how I was doing the equivalent of a decent MIT grad student, and quickly realized that the bar was much higher than just that. Complacency is always a choice.
     
 #### 2. Learning rate = feedback rate
 * The single-most important factor for choosing a lab is the quality of mentorship
@@ -110,7 +110,7 @@ Or: advice on how to make the most of your time in lab.
 
 Beyond the research process, there were some surprising things about academic culture I got to see firsthand.
 
-## Academic culture
+## Academic Culture
 A lot has already been written about the [failings of 'publish or perish' culture](https://jameshk.com/don-braben-scientific-freedom) so I won't go into detail on that. Instead, I want to make observations about the other forces that apply constant pressure across academia.
 
 #### 1. Churn
@@ -173,8 +173,8 @@ I'm not saying that there is no merit to academic labs—they are necessary to t
 
 ---
 
-*1. I cannot go without expressing a tremendous thank you to [Isaak Freeman](https://isaak.net/). He is the singular reason why I joined the lab. I called up Isaak on a weekday, he offered to show me around the lab, and I flew there the next week. He got me up to speed on the research, introduced me to the people, and at every step was a persistent champion. Words cannot do my gratitude justice.*
+*1. I cannot go without expressing a tremendous thank you to [Isaak Freeman](https://isaak.net/). I called up Isaak on a weekday, he offered to show me around the lab, and I flew there the next week. He got me up to speed, introduced me to lab members, and at every step was a persistent champion. Words cannot do my gratitude justice.*
 
-*2. Thanks to Ed for taking a chance on me and constantly pushing me through constructive criticism. Thanks to my postdoc Yangning who graciously took me under his wing, and has taught me so much chemistry and shown me how science gets done.*
+*2. Thanks to Ed for taking a chance on me and constantly pushing me through brutal, honest criticism. Thanks to my postdoc Yangning who graciously took me under his wing, and has taught me so much chemistry and shown me how science gets done.*
 
 *3. Thanks to [Anson Yu](https://ansonyu.me/), [Isaak Freeman](https://isaak.net/), [AJ Kourabi](https://www.ajkourabi.com/), [Jolie Gan](https://www.joliegan.com/), [Tony Kulesa](https://x.com/kulesatony) for reading over initial drafts and providing feedback.*

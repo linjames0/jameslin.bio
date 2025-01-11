@@ -14,7 +14,7 @@ Apart from academic achievements, the lab has a history of spinning out companie
 
 I’m working on [nanoscale-imaging of C. elegans](https://pubmed.ncbi.nlm.nih.gov/35320565/) and in a future post I’ll do a deeper dive into my research. This post, however, is my attempt to distill observations on the *process* of doing great science from inside a world-class lab. This is not a guide to the 'publish or perish' flavor of science. I'm interested in how paradigms get torn down and rebuilt through the scientific method. There's magic here and it's working.
 
-## How we get things done
+## How the Boyden Lab get things done
 It's worth noting that the Boyden Lab is atypical in some important ways:
 
 #### 1. Flat hierarchy

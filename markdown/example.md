@@ -13,3 +13,5 @@ Specifically, people who…
 - listen and observe, noticers of small details
 - reciprocate but aren’t transactional
 - consent to a little whimsy every while-or-so
+
+![title](/markdown/testimage/hi.png "hello")

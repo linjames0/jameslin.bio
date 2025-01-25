@@ -3,7 +3,7 @@ import styles from "./page.module.css";
 export default function Page() {
     return (
         <div>
-            <h3 className={styles.subtitle}>Hi, I'm James.</h3>
+            <h3 className={styles.subtitle}>Hi, I'm James</h3>
             <p>
                 I'm interested in synthetic biology and machine learning from an applied perspective.
             </p>

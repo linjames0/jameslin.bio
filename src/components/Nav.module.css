@@ -2,7 +2,7 @@
     width: 10%;
 
     position: absolute;
-    left: calc(30% - 120px);
+    left: calc(30% - 100px);
     top: 15%;
     
     /* border: 5px solid rgb(59, 94, 220); */
@@ -10,7 +10,7 @@
 
 .paddingBox {
     bottom: 0;
-    padding-bottom: 40px;
+    padding-bottom: 43px;
 }
 
 .navTitle {
@@ -26,10 +26,33 @@
 }
 
 .currentPage {
-    text-decoration: underline;
-    text-decoration-thickness: 2px;
-    text-underline-offset: 2px;
+    position: relative;
+    /* text-decoration: underline; */
+    /* text-decoration-thickness: 2px;
+     */
+    /* border-left: 2px solid currentColor; */
+    /* padding-left: 5px; */
+    /* text-underline-offset: 2px; */
 }
+
+.currentPage::before {
+    content: '';
+    position: absolute;
+    left: -5px;
+    top: 50%;
+    transform: translateY(-50%);
+    height: 1.2em;
+    width: 2px;
+    background-color: rgb(59, 94, 220);
+}
+
+/* a:hover {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+
+    padding: 3px 0 3px 0;
+    background-color: rgb(59, 94, 220);
+} */
 
 .desktopNav {
     display: static;

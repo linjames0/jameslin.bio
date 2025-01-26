@@ -50,7 +50,7 @@ export default function Nav() {
                 <br />
                 <Link href="/writing" className={`${pathname === '/writing' || postActive() ? styles.currentPage : ''} ${styles.navSubtitle}`}>Writing</Link>
                 <br />
-                <Link href="/observatory" className={`${pathname === '/observatory' ? styles.currentPage : ''} ${styles.navSubtitle}`}>Observatory</Link>
+                {/* <Link href="/observatory" className={`${pathname === '/observatory' ? styles.currentPage : ''} ${styles.navSubtitle}`}>Observatory</Link> */}
             </div>
 
         </div>

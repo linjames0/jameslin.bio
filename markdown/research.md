@@ -1,5 +1,5 @@
 # Observations from MIT's best neuroscience lab
-### Jan 10th, 2025
+### February 13th, 2025
 
 #### Table of Contents
 * How the Boyden Lab gets things done

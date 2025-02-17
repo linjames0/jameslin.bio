@@ -8,6 +8,8 @@ import styles from "./Nav.module.css";
 export default function Nav() {
     const pathname = usePathname();
     const posts = [
+        'jolie',
+        'research',
         'young',
         'attractive',
         'focus',

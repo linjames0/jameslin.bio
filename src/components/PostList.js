@@ -5,6 +5,11 @@ export default function PostList() {
     return (
         <div>
             <hr />
+            <Link href="/jolie" className={styles.postTitle}>All at once</Link>
+            <p className={styles.postDate}>
+                February 14, 2025
+            </p>
+            <hr />
             <Link href="/research" className={styles.postTitle}>Observations from MIT's best neuroscience lab</Link>
             <p className={styles.postDate}>
                 February 13, 2025

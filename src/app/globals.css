@@ -19,6 +19,11 @@ ul, ol {
     margin: 0;
 }
 
+h3 {
+    font-family: var(--font-newsreader), serif;
+    font-weight: 400;
+}
+
 a {
     font-weight: 400;
 

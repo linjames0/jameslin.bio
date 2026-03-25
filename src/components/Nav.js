@@ -35,8 +35,10 @@ export default function Nav() {
                 <br />
                 <Link href="/writing" className={`${pathname === '/writing' || postActive() ? styles.currentPage : ''} ${styles.navSubtitle}`}>Writing</Link>
                 <br />
+                <Link href="/photography" className={`${pathname === '/photography' ? styles.currentPage : ''} ${styles.navSubtitle}`}>Photography</Link>
+                <br />
 
-                
+
                 {/* <Link href="/art" className={`${pathname === '/art' ? styles.current : ''} ${styles.navSubtitle}`}>Art</Link>
                 <br /> */}
                 {/* <Link href="/observatory" className={`${pathname === '/observatory' ? styles.currentPage : ''} ${styles.navSubtitle}`}>Observatory</Link>
@@ -51,6 +53,8 @@ export default function Nav() {
                 <Link href="/" className={`${pathname === '/' ? styles.currentPage : ''} ${styles.navSubtitle}`}>Home</Link>
                 <br />
                 <Link href="/writing" className={`${pathname === '/writing' || postActive() ? styles.currentPage : ''} ${styles.navSubtitle}`}>Writing</Link>
+                <br />
+                <Link href="/photography" className={`${pathname === '/photography' ? styles.currentPage : ''} ${styles.navSubtitle}`}>Photography</Link>
                 <br />
                 {/* <Link href="/observatory" className={`${pathname === '/observatory' ? styles.currentPage : ''} ${styles.navSubtitle}`}>Observatory</Link> */}
             </div>

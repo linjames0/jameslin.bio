@@ -1,5 +1,5 @@
 # Smart people are often strange
-### October 25th, 2022
+###### October 25th, 2022
 > The fool doth think he is wise, but the wise man knows himself to be a fool.\
 \
 — William Shakespeare

@@ -26,9 +26,9 @@
     margin-bottom: 0px;
 }
 
-/* subtitle */
+/* section header */
 .markdown h2 {
-    font-family: var(--font-newsreader), serif;
+    font-family: var(--font-eb-garamond), serif;
     font-weight: 500;
     font-size: 1.5em;
 
@@ -38,20 +38,9 @@
     line-height: 0.5;
 }
 
-/* date */
+/* subsection header */
 .markdown h3 {
-    color: rgb(120, 120, 120);
-
-    font-style: italic;
-    font-weight: 300;
-    font-size: 1em;
-    
-    margin-top: 0px;
-    margin-bottom: 0px;
-}
-
-.markdown h4 {
-    font-family: var(--font-newsreader), serif;
+    font-family: var(--font-eb-garamond), serif;
     font-weight: 500;
     font-size: 1.1em;
 
@@ -59,6 +48,23 @@
     margin-bottom: 0.5em;
 
     line-height: 0.5;
+}
+
+/* date */
+.markdown h6 {
+    color: rgb(120, 120, 120);
+
+    font-style: italic;
+    font-weight: 300;
+    font-size: 1em;
+
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.markdown img {
+    max-width: 100%;
+    height: auto;
 }
 
 .markdown p {
@@ -69,6 +75,10 @@
 .markdown ul {
     line-height: 1.5em;
     margin-bottom: 0px;
+}
+
+.markdown li > p {
+    margin-top: 0;
 }
 
 .markdown ol {

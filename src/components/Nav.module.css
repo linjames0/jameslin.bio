@@ -1,10 +1,9 @@
 .navBox {
-    width: 10%;
-
     position: absolute;
-    left: calc(30% - 100px);
+    right: 70%;
     top: 15%;
-    
+    padding-right: 20px;
+
     /* border: 5px solid rgb(59, 94, 220); */
 }
 
@@ -56,6 +55,7 @@
 
 .desktopNav {
     display: static;
+    text-align: right;
 }
 
 .mobileNav {

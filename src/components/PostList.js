@@ -35,6 +35,11 @@ export default function PostList() {
                 October 25, 2022
             </p>
             <hr />
+            <Link href="/biodefense" className={styles.postTitle}>Map of biodefense interventions</Link>
+            <p className={styles.postDate}>
+                October 20, 2022
+            </p>
+            <hr />
         </div>
     );
 }

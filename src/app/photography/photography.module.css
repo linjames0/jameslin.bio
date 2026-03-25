@@ -1,0 +1,22 @@
+.grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 12px;
+}
+
+.half {
+    grid-column: span 1;
+    overflow: hidden;
+}
+
+.full {
+    grid-column: span 2;
+    overflow: hidden;
+}
+
+.photo {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}

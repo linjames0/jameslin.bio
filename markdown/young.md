@@ -1,5 +1,5 @@
 # Your strength as a young person
-### March 26th, 2024
+###### March 26th, 2024
 When you're young, you severely underestimate yourself. In reality you are strong in vital ways.
 
 **1. Coachability**\

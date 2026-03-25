@@ -1,5 +1,5 @@
 # Focus
-### February 24th, 2024
+###### February 24th, 2024
 > People think focus means saying yes to the thing you’ve got to focus on. But that’s not what it means at all. It means saying no to the hundred other good ideas that there are. \
 \
 — Steve Jobs

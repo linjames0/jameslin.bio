@@ -11,6 +11,43 @@
     font-size: 1.3em;
 }
 
+.hoverable {
+    position: relative;
+    display: inline;
+    cursor: default;
+}
+
+.hoverable::after {
+    content: attr(data-ref);
+    font-size: 0.7em;
+    vertical-align: super;
+    color: rgb(59, 94, 220);
+    margin-left: 1px;
+}
+
+.hoverable .tooltip {
+    visibility: hidden;
+    opacity: 0;
+    position: absolute;
+    left: 0;
+    top: 1.6em;
+    width: max-content;
+    max-width: 320px;
+    background-color: #fff;
+    border: 1px solid rgb(59, 94, 220);
+    padding: 10px 14px;
+    font-size: 0.9em;
+    font-style: italic;
+    line-height: 1.5;
+    z-index: 10;
+    transition: opacity 0.15s ease;
+}
+
+.hoverable:hover .tooltip {
+    visibility: visible;
+    opacity: 1;
+}
+
 .quote {
     font-weight: 400;
 

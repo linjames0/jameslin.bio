@@ -1,10 +1,10 @@
 # Observations from MIT's best neuroscience lab
-### February 13th, 2025
+###### February 13th, 2025
 
-#### Table of Contents
-* How the Boyden Lab gets things done
-* What to know about research
-* Observations on academic culture
+### Table of Contents
+* [How the Boyden Lab gets things done](#how-the-boyden-lab-get-things-done)
+* [What to know about research](#what-to-know-about-research)
+* [Observations on academic culture](#academic-culture)
 
 ---
 
@@ -17,7 +17,7 @@ I’m working on [nanoscale-imaging of C. elegans](https://pubmed.ncbi.nlm.nih.g
 ## How the Boyden Lab get things done
 It's worth noting that the Boyden Lab is atypical in some important ways:
 
-#### 1. Flat hierarchy
+### 1. Flat hierarchy
 Size does matter when you're running a 50-person lab. Most labs this large tend to bureaucratize but Ed has normalized a different kind of structure:
 
 * Researchers have full agency over their own projects
@@ -28,12 +28,12 @@ Through this flat structure, he facilitates highly efficient top-down decision-m
 
 On the other hand, because everyone is working on their own thing, it can sometimes feel like people are all moving in different directions instead of toward a single concerted goal. Some of the best work in the lab is collaborative, which can be harder to enforce when people by default work independently.
 
-#### 2. Extreme diversity of ideas
+### 2. Extreme diversity of ideas
 Though the main focus of the lab is neuroscience, we have lab members working on engineering synthetic cells, sulfur-capturing microbes, implosion fabrication, expansion of cell culture, brain simulations, spatial transcriptomics, optogenetics drug delivery, biological foundation models, and on and on.
 
 Because there are so many flavors of science in a single place, I've gotten to sample dozens of different approaches to research and observe other fields, which has led to unlikely collaborations with people in seemingly unrelated areas. Talking with postdocs specializing in material science and EM chemistry helped me refine concrete ideas for expanding worms. I realized that a big part of research is finding great ideas from all corners of science and putting them together, which is facilitated by a diverse research group.
 
-#### 3. Go for gold
+### 3. Go for gold
 The lab culture is a severe rejection of incrementalism. We want to innovate and redefine, not optimize p-values or benchmarks.
 
 Ed frequently questions the ambition of an idea: is it scalable? can we open-source the method for all labs? how does this fundamentally change how science gets done? He also constantly pushes for us to invert the premise: what if we didn't try to increase microscope resolution? what if instead [we made our samples bigger](https://www.nature.com/articles/s41592-018-0219-4)? Most of the time when you invert you arrive at something that sounds ridiculous, but on those rare occasions where the conclusion gives you a pause, you're on the cusp of revolution.
@@ -49,7 +49,7 @@ With that out of the way, a lot of things remain true across different research 
 ## What to know about research
 Or: advice on how to make the most of your time in lab.
 
-#### 1. You get what you put in
+### 1. You get what you put in
 * Get to know everyone in the lab
     * Get context on what people are working on
     * People have already ran into the same problems and have thought about solutions
@@ -66,7 +66,7 @@ Or: advice on how to make the most of your time in lab.
 * Exceed expectations
     * For my first check-in with Ed, I prepared slides on how I was doing the equivalent of a decent MIT grad student, and quickly realized that the bar was much higher than just that. Complacency is always a choice.
     
-#### 2. Learning rate = feedback rate
+### 2. Learning rate = feedback rate
 * The single-most important factor for choosing a lab is the quality of mentorship
     * Everything else is secondary to ensuring you have a great supervisor or PI
     * Vet them before you join
@@ -87,7 +87,7 @@ Or: advice on how to make the most of your time in lab.
     * Your PI has the context on what everyone in the lab is doing, what other groups have tried, what approaches worked and what didn't etc.
     * You might have an impulse to come up with 'your own' ideas but you don't have to reinvent the wheel - there's likely an easier (and more elegant) solution to your problem already out there if you ask
 
-#### 3. Focus
+### 3. Focus
 * **If you want to do great research, you cannot split your attention between projects**
     * I initially wanted to work on two projects over the course of a few months, but Ed convinced me to focus on just one (1) project for 6 months
     * The time it takes to understand every angle of a scientific challenge is significant, and the hardest problems are soluble only through [undivided effort](https://jameslin.bio/focus)
@@ -97,7 +97,7 @@ Or: advice on how to make the most of your time in lab.
     * In science, every single detail of a protocol has a reason for being there. The reasoning might be strong, or it might be weak, and it's only through a deep understanding of every step that you can begin to interrogate and experiment with other conditions.
 * Often, people take on new projects after they encounter a tough roadblock when in reality that's when they should focus more
 
-#### 4. Relationships rule the world
+### 4. Relationships rule the world
 * Collaborations come out of who you know
     * Go to seminars, sign up for presentations, email people you’d like to work with
 * Surround yourself with people who inspire you through their brilliance
@@ -112,24 +112,24 @@ Beyond the research process, there were some surprising things about academic cu
 ## Academic culture
 A lot has already been written about the [failings of 'publish or perish' culture](https://jameshk.com/don-braben-scientific-freedom) so I won't go into detail on that. Instead, I want to make observations about the other forces that apply constant pressure across academia.
 
-#### 1. Churn
+### 1. Churn
 Academia has a systemic talent problem. Most labs only have one professor-level person because the tenure system incentivizes great researchers to leave the lab to start their own group. Graduate students are only there for certification, and they leave for other positions after. Funding is low so research techs and undergrads jump at opportunities in industry for higher pay.
 
 Because of the high level of churn, any given lab is often constrained by expertise. In industry, it's normal for people to stay at a single job for 10-20 years and in doing so they develop a deep domain expertise which is essential for hard technical breakthroughs. This is far more rare in academia, and you'll often be conversing with people who have only spent a few years on their current project or even field. As a result, your ability to learn quickly on your own is essential because the experts for your specific problem are either inaccessible or nonexistent.
 
-#### 2. Competition
+### 2. Competition
 Given the rate of talent turnover, collaboration with other research groups becomes all the more important. But here, too, there are incentive problems. It can be hard to initiate collaborations with labs in the same field because of the competitive politics  of publishing. Often, both groups are trying to publish first on similar discoveries. This causes a major conflict in authorship: who gets first author? second author? how do you split credit? which lab gets the patent? etc.
 
 This is less of a problem *within* labs. Because people in our group are all working on their own differentiated projects, there's far less politics and competition. There's an open spirit of collaboration - we frequently share reagents, data, assist with teaching new techniques, send papers, and make introductions.
 
-#### 3. Education
+### 3. Education
 I think what's often overlooked about researcher-types is that they are excellent at teaching. They have TA'd for classes, given lectures, described their work to family and relatives, and they write all the time (papers, grant proposals) explaining science to a general audience. Everyone is capable of explaining their research in depth, sometimes down to the atom but usually at least down to the level of cells. For people aspiring to be sponges, academic researchers are your ocean.
 
 But I've also been surprised how little people know outside of their own domains of expertise. Even at MIT, you can quickly become one of the lab experts on a relevant but niche area. Chemists and neuroscientists absolutely school me in their lane, but I've realized that my depth in several areas (CS, biology, neuroscience, physics) means that I usually have something to contribute to specialists.
 
 And it's been equally startling the extent to which people are resistant to learning about new fields. Even neuroscientists struggle sometimes with synaptic plasticity. However, there are some who constantly absorb knowledge regardless of domain and these people stand out in a crowded field.
 
-#### 4. Funding
+### 4. Funding
 Two things can be true at once - there is a lot of funding in academia, and funding is a constant constraint. Most small labs operate on $500k a year and for the larger ones annual funding can be upwards of $5M.
 
 On its own, this is a large sum. But when you factor in the researchers ($50k-100k / person), reagents ($100-50k / bottle), and scientific equipment (~$50k-1M / unit), funding gets depleted rapidly by recurring costs. A single experiment can run upwards of $100k and cost weeks to months of researcher time.
@@ -140,7 +140,7 @@ Our lab is large and for the most part we have access to state of the art equipm
 
 Relevant to this point: earlier last year the BRAIN Initiative announced a [budget cut of nearly $300M](https://www.thetransmitter.org/funding/278-million-cut-in-brain-initiative-funding-leaves-neuroscientists-in-limbo/) for neuroscientific research, which was a major source of funding for neuroscience labs like ours. Along with the near-term risk of large cuts in government funding, money anxiety has been brought back to the forefront of academic concerns.
 
-#### 5. Intensity
+### 5. Intensity
 Having spent some years around SF startup founders, I was used to a high-intensity all-out-ness, something sorely missing from academic culture. I usually start lab-related stuff at 10am and I'm almost always the last to leave the lab around 10pm. In contrast, most people usually get in around noon and leave early evening. In part this is because some people work from home, but there are two other culprits: there's often no incentive for intensity and researchers tend to emphasize work-life balance.
 
 In most startups, your company is constantly under competitive pressure and threats of running out of money. If you don't stay in the office until 1am, some other team will outcompete you and you will lose your job. There isn't time to take your time.

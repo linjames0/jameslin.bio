@@ -2,21 +2,12 @@ import fs from 'fs';
 import path from 'path';
 import styles from "./photography.module.css";
 
-const excluded = [
-    'rainbow oil.jpg',
-    'blue abstract.jpg',
-    'blue bottle.jpg',
-    'jazz.jpg',
-    'steel.jpg',
-    'cushion.jpg',
-];
-
 function getPhotos() {
     const dir = path.join(process.cwd(), 'public/photos/photography');
     const files = fs.readdirSync(dir);
     const imageExtensions = ['.jpg', '.jpeg', '.png', '.webp'];
     return files
-        .filter(f => imageExtensions.includes(path.extname(f).toLowerCase()) && !excluded.includes(f))
+        .filter(f => imageExtensions.includes(path.extname(f).toLowerCase()))
         .map((filename, i) => ({
             src: `/photos/photography/${encodeURIComponent(filename)}`,
             alt: filename.replace(/\.[^.]+$/, ''),

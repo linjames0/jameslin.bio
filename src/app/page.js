@@ -27,7 +27,7 @@ export default function Page() {
                 I'm supported by <a href="https://www.magnificentgrants.com/">Magnificent Grants</a> and <a href="https://www.mercatus.org/emergent-ventures">Emergent Ventures</a>.
             </p>
             <p style={{marginBottom: 0}}>
-                If anything here resonates, feel free to reach out via <a href="mailto:linjames@mit.edu">email</a> or <a href="https://x.com/jlinbio">twitter</a>.
+                If anything here resonates, feel free to reach out via <a href="mailto:jameslinyf@gmail.com">email</a> or <a href="https://x.com/jlinbio">twitter</a>.
             </p>
         </div>
     );

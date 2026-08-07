@@ -134,6 +134,18 @@
     transform: translateX(-50%);
     width: min(90%, 552px);
     margin: 0;
+
+    /* the box overlays the content column — let clicks pass through
+       everywhere except the actual links */
+    pointer-events: none;
+}
+
+.headerSide a {
+    pointer-events: auto;
+}
+
+.headerSide .navLinkHidden {
+    pointer-events: none;
 }
 
 /* Nav links fade while collapsing, sliding left with the trees. */

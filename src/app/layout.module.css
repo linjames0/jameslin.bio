@@ -1,15 +1,8 @@
+/* Content column, centered. Width = the home page's longest line
+   ("I'm awful at casual enjoyment...") so nothing wraps early. */
 .mainBox {
-    width: 40%;
-
-    position: relative;
-    left: 30%;
-    top: 15vh;
-
-    margin-top: 15px;
-    padding: 5px 20px;
-    
-    border-left: rgb(59, 94, 220) 3px solid;
-    /* border: 5px solid rgb(59, 94, 220); */
+    width: min(90%, 552px);
+    margin: 10vh auto 0;
 }
 
 .paddingBox {
@@ -55,7 +48,7 @@
     color: rgb(120, 120, 120);
 
     font-style: italic;
-    font-weight: 300;
+    font-weight: 400;
     font-size: 1em;
 
     margin-top: 0px;
@@ -103,12 +96,8 @@
     font-size: 0.5em;
 }
 
-@media (max-width: 850px) {
+@media (max-width: 950px) {
     .mainBox {
-        border-left: none;
-        width: 90%;
-        left: 5%;
-
-        padding: 0px;
+        margin-top: 5vh;
     }
 }

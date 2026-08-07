@@ -24,6 +24,37 @@ h3 {
     font-weight: 400;
 }
 
+/* Photography pages: the header leaves the flow (side box), so pull the
+   content up to sit level with it, to the right of the nav box. */
+body:has([data-page="photography"]) main {
+    margin-top: 148px;
+}
+
+/* Page transitions: outgoing body fades in place (opacity set inline by the
+   nav before navigating), incoming page content fades in. */
+main {
+    transition: opacity 0.3s ease;
+}
+
+main > * {
+    animation: pageFade 0.4s ease both;
+}
+
+@keyframes pageFade {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+/* Full-bleed pages (photography landing) show exactly one viewport — no scroll. */
+html:has([data-fullbleed]),
+body:has([data-fullbleed]) {
+    overflow: hidden;
+}
+
 a {
     font-weight: 400;
 

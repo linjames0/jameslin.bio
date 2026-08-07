@@ -3,9 +3,8 @@ import styles from "./page.module.css";
 export default function Page() {
     return (
         <div>
-            <h3 className={styles.subtitle}>Hi, I'm James</h3>
-            <p>
-                I'm making films at the frontiers of tech and science.
+            <p style={{marginTop: 0}}>
+                Hi, I'm James. I'm making films at the frontiers of tech and science.
             </p>
             <p style={{marginBottom: 0}}>Previously,</p>
             <ul>

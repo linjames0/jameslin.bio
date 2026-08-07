@@ -1,5 +1,15 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+# full-res photo masters — only the web-optimized AVIFs in portfolio-web/ ship
+/public/photos/photography/portfolio
+/public/photos/photography/art
+
+# licensed font files (Input Mono) — not redistributable; unused since the EB Garamond revert
+/src/app/fonts
+
+# local tooling config
+/.claude
+
 # dependencies
 /node_modules
 /.pnp

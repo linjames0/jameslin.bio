@@ -1,37 +1,28 @@
+import Image from "next/image";
 import styles from "./photography.module.css";
 
-const BASE_URL = "https://pub-78a5996a67444fb785f2e7d83efc5ab5.r2.dev";
+// Web-optimized copy (2560px AVIF) lives in portfolio-web/ so the page opens fast.
+const hero = {
+    src: `/photos/photography/portfolio-web/${encodeURIComponent("origins - 010.avif")}`,
+    alt: "origins 010",
+};
 
-const photoFiles = [
-    "blue bottle.jpg",
-    "cakes.jpg",
-    "carve.jpg",
-    "chaos.jpg",
-    "cotton.jpg",
-    "curious.jpg",
-    "frames.jpg",
-    "general trash.jpg",
-    "incense.jpg",
-    "maps.jpg",
-    "mirror mirror.jpg",
-    "multiverse.jpg",
-    "waves.jpg",
-];
-
-const photos = photoFiles.map((filename, i) => ({
-    src: `${BASE_URL}/${encodeURIComponent(filename)}`,
-    alt: filename.replace(/\.[^.]+$/, ''),
-    size: (i + 1) % 5 === 0 ? 'full' : 'half',
-}));
-
+// The landing page is just the full-screen opening shot — no gallery, no
+// scrolling. The series live at /photography/{origins,hotfire,documentary}.
 export default function Photography() {
     return (
-        <div className={styles.grid}>
-            {photos.map((photo, i) => (
-                <div key={i} className={photo.size === 'full' ? styles.full : styles.half}>
-                    <img src={photo.src} alt={photo.alt} className={styles.photo} />
-                </div>
-            ))}
+        <div className={styles.page} data-page="photography" data-fullbleed="">
+            <section className={styles.hero}>
+                <Image
+                    src={hero.src}
+                    alt={hero.alt}
+                    fill
+                    priority
+                    unoptimized
+                    sizes="100vw"
+                    className={styles.heroImg}
+                />
+            </section>
         </div>
     );
 }

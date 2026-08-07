@@ -4,30 +4,12 @@ import Nav from "../components/Nav";
 import MyHead from "../components/Head";
 import { Analytics } from "@vercel/analytics/react"
 
-import { Newsreader , EB_Garamond, Libre_Baskerville, Inter} from 'next/font/google';
-
-const newsreader = Newsreader({
-    weight: ['400', '500', '600', '700'],
-    subsets: ['latin'],
-    variable: '--font-newsreader'
-});
+import { EB_Garamond } from 'next/font/google';
 
 const ebGaramond = EB_Garamond({
     weight: ['400', '500', '600', '700'],
     subsets: ['latin'],
     variable: '--font-eb-garamond'
-});
-
-const libreBaskerville = Libre_Baskerville({
-    weight: ['400', '700'],
-    subsets: ['latin'],
-    variable: '--font-libre-baskerville'
-});
-
-const inter = Inter({
-    weight: ['400', '500', '600', '700'],
-    subsets: ['latin'],
-    variable: '--font-inter'
 });
 
 export const metadata = {
@@ -37,7 +19,7 @@ export const metadata = {
 
 export default function RootLayout({ children }) {
     return (
-        <html className={`${newsreader.variable} ${ebGaramond.variable} ${inter.variable}`}>
+        <html className={ebGaramond.variable}>
             <MyHead />
             <Analytics />
             <body>

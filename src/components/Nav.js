@@ -1,64 +1,93 @@
 "use client";
 
+import { useEffect, useState } from 'react';
 import Link from 'next/link';
-import { usePathname } from 'next/navigation';
+import Image from 'next/image';
+import { usePathname, useRouter } from 'next/navigation';
 import "../app/globals.css";
 import styles from "./Nav.module.css";
 
 export default function Nav() {
     const pathname = usePathname();
-    const posts = [
-        'jolie',
-        'research',
-        'young',
-        'attractive',
-        'focus',
-        'strange'
-    ]
+    const router = useRouter();
 
-    const postActive = () => {
-        const currentSlug = pathname.split('/')[1];
-        return posts.includes(currentSlug);
-    }
+    // Clicking Photography starts the whole transition at once (leaving=true):
+    // nav links and name fade while sliding with the trees, and the body fades
+    // in place. The header stays in the layout flow until the navigation
+    // lands, so the body doesn't jump during the fade; only then does the
+    // header become the absolute side box (at identical coordinates).
+    const [leaving, setLeaving] = useState(false);
+
+    const photoSeries = [
+        { slug: 'origins', label: 'Origins' },
+        { slug: 'hotfire', label: 'Hotfire' },
+        { slug: 'documentary', label: 'Documentary' },
+    ];
+    const onPhotography = pathname.startsWith('/photography');
+    const collapsed = onPhotography || leaving;
+
+    // The series links fade in 1s after the nav transition settles (the
+    // slide runs ~0.2s past arrival); direct series loads start sooner.
+    const subDelay = pathname === '/photography' ? 1.2 : 0.6;
+
+    // Post slugs live at the root, but belong to Writing.
+    const posts = ['jolie', 'research', 'young', 'attractive', 'focus', 'strange'];
+    const onWriting = pathname === '/writing' || posts.includes(pathname.split('/')[1]);
+
+    const hideable = collapsed ? styles.navLinkHidden : '';
+    const current = (isActive) => (isActive ? styles.currentPage : '');
+
+    const goPhotography = (e) => {
+        if (onPhotography || leaving) return;
+        e.preventDefault();
+        setLeaving(true);
+        const main = document.querySelector('main');
+        if (main) main.style.opacity = '0';
+        setTimeout(() => router.push('/photography'), 300);
+    };
+
+    // New page content fades itself in; clear the fade-out.
+    useEffect(() => {
+        const main = document.querySelector('main');
+        if (main) main.style.opacity = '';
+        if (!pathname.startsWith('/photography')) setLeaving(false);
+    }, [pathname]);
 
     return (
-        <div className={styles.navBox}>
-            <div className={styles.desktopNav}>
-                <div className={styles.paddingBox}></div>
-                {/* <h3 className={styles.navTitle}>Navigation</h3>             */}
-                
-                {/* Insert the crow image from public folder here, set width to 100px, and it should be treated as an inline element*/}
-                {/* <img src="/crow.png" alt="crow" className={styles.crowImage} style={{ width: '50px',  display: 'inline-block' }} />
-                <br /> */}
-    
-                <Link href="/" className={`${pathname === '/' ? styles.currentPage : ''} ${styles.navSubtitle}`}>Home</Link>
-                <br />
-                <Link href="/writing" className={`${pathname === '/writing' || postActive() ? styles.currentPage : ''} ${styles.navSubtitle}`}>Writing</Link>
-                <br />
-                <Link href="/photography" className={`${pathname === '/photography' ? styles.currentPage : ''} ${styles.navSubtitle}`}>Photography</Link>
-                <br />
-
-
-                {/* <Link href="/art" className={`${pathname === '/art' ? styles.current : ''} ${styles.navSubtitle}`}>Art</Link>
-                <br /> */}
-                {/* <Link href="/observatory" className={`${pathname === '/observatory' ? styles.currentPage : ''} ${styles.navSubtitle}`}>Observatory</Link>
-                <br /> */}
-                {/* <Link href="/influences" className={`${pathname === '/influences' ? styles.currentPage : ''} ${styles.navSubtitle}`}>Influences</Link>
-                <br />
-                <Link href="/misc" className={`${pathname === '/misc' ? styles.currentPage : ''} ${styles.navSubtitle}`}>Misc</Link>
-                <br /> */}
+        <header className={`${styles.header} ${collapsed ? styles.collapsedFx : ''} ${onPhotography ? styles.headerSide : ''}`}>
+            <div className={styles.bar}>
+                <Link href="/" className={styles.wordmark}>
+                    <span className={`${styles.nameText} ${collapsed ? styles.nameTextHidden : ''}`}>James Lin</span>
+                    <Image
+                        src="/photos/trees.png"
+                        alt=""
+                        width={1062}
+                        height={1518}
+                        className={styles.logo}
+                        priority
+                    />
+                </Link>
+                <div className={styles.spacer} />
+                <nav className={styles.links}>
+                    <Link href="/" className={`${current(pathname === '/')} ${styles.navSubtitle} ${styles.navLink} ${hideable}`}>Home</Link>
+                    <Link href="/writing" className={`${current(onWriting)} ${styles.navSubtitle} ${styles.navLink} ${hideable}`}>Writing</Link>
+                    <Link href="/photography" onClick={goPhotography} className={`${styles.navSubtitle} ${styles.navLink} ${hideable}`}>Photography</Link>
+                </nav>
             </div>
-
-            <div className={styles.mobileNav}>         
-                <Link href="/" className={`${pathname === '/' ? styles.currentPage : ''} ${styles.navSubtitle}`}>Home</Link>
-                <br />
-                <Link href="/writing" className={`${pathname === '/writing' || postActive() ? styles.currentPage : ''} ${styles.navSubtitle}`}>Writing</Link>
-                <br />
-                <Link href="/photography" className={`${pathname === '/photography' ? styles.currentPage : ''} ${styles.navSubtitle}`}>Photography</Link>
-                <br />
-                {/* <Link href="/observatory" className={`${pathname === '/observatory' ? styles.currentPage : ''} ${styles.navSubtitle}`}>Observatory</Link> */}
-            </div>
-
-        </div>
-    )
+            {onPhotography && (
+                <div className={styles.subRow}>
+                    {photoSeries.map((s, i) => (
+                        <Link
+                            key={s.slug}
+                            href={`/photography/${s.slug}`}
+                            className={`${pathname === `/photography/${s.slug}` ? styles.currentPage : ''} ${styles.navSubtitle} ${styles.subLink}`}
+                            style={{ animationDelay: `${subDelay + i * 0.15}s` }}
+                        >
+                            {s.label}
+                        </Link>
+                    ))}
+                </div>
+            )}
+        </header>
+    );
 }

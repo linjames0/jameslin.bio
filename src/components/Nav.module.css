@@ -1,88 +1,224 @@
-.navBox {
-    position: absolute;
-    right: 70%;
-    top: 15%;
-    padding-right: 20px;
+/* Horizontal top header: wordmark + tree logo on the left, nav on the right.
+   Right edge lines up with the main content column (18% + 46% wide).
+   Sits above the fixed photography hero (z-index). */
+.header {
+    position: relative;
+    z-index: 10;
 
-    /* border: 5px solid rgb(59, 94, 220); */
+    width: min(90%, 552px);
+    margin: 148px auto 0;
 }
 
-.paddingBox {
-    bottom: 0;
-    padding-bottom: 43px;
+/* Baseline alignment keeps the smaller nav letters sitting exactly on the
+   wordmark's baseline. */
+.bar {
+    display: flex;
+    align-items: baseline;
 }
 
-.navTitle {
-    font-weight: 500;
-    font-size: 1.3em;
+.wordmark {
+    flex: none;
+    display: flex;
+    align-items: center;
 
-    margin-top: -2.5px;
+    font-family: var(--font-eb-garamond), serif;
+    font-weight: 600;
+    font-size: 1.35em;
+    color: rgb(17, 17, 17);
+
+    transition: transform 0.5s ease;
 }
-  
+
+/* During the transition (and on photography pages) the trees slide left into
+   the side box position; the collapsing name carries them past its width. */
+.collapsedFx .wordmark {
+    transform: translateX(-180px);
+}
+
+/* The name fades out while collapsing, sliding the trees along with it. */
+.nameText {
+    margin-right: 10px;
+    max-width: 200px;
+    overflow: hidden;
+    white-space: nowrap;
+
+    transition: max-width 0.5s ease, opacity 0.35s ease, margin-right 0.5s ease;
+}
+
+.nameTextHidden {
+    max-width: 0;
+    opacity: 0;
+    margin-right: 0;
+}
+
+/* neutralize the global blue link hover on the wordmark */
+.wordmark:hover {
+    color: rgb(17, 17, 17);
+    background: none;
+    padding: 0;
+}
+
+.logo {
+    width: 32px;
+    height: auto;
+    display: block;
+}
+
+/* Animatable gap between wordmark and nav; collapsing it slides the fading
+   links left together with the trees. */
+.spacer {
+    flex-grow: 1;
+    transition: flex-grow 0.5s ease;
+}
+
+.collapsedFx .spacer {
+    flex-grow: 0;
+}
+
+.links {
+    display: flex;
+    align-items: baseline;
+}
+
 .navSubtitle {
+    font-family: var(--font-eb-garamond), serif;
     font-weight: 400;
     font-size: 1.1em;
-}
+    color: rgb(17, 17, 17);
 
-.currentPage {
     position: relative;
-    /* text-decoration: underline; */
-    /* text-decoration-thickness: 2px;
-     */
-    /* border-left: 2px solid currentColor; */
-    /* padding-left: 5px; */
-    /* text-underline-offset: 2px; */
+    padding-bottom: 3px;
 }
 
-.currentPage::before {
+/* Hover: a blue underline slides in from the left (no background fill). */
+.navSubtitle:hover {
+    color: rgb(17, 17, 17);
+    background: none;
+    padding: 0 0 3px 0;
+}
+
+.navSubtitle::after {
     content: '';
     position: absolute;
-    left: -5px;
-    top: 50%;
-    transform: translateY(-50%);
-    height: 1.2em;
-    width: 2px;
+    left: 0;
+    right: 0;
+    bottom: 6px;
+    height: 2px;
     background-color: rgb(59, 94, 220);
+
+    transform: scaleX(0);
+    transform-origin: left;
+    transition: transform 0.25s ease;
 }
 
-/* a:hover {
-    color: rgb(255, 255, 255);
-    text-decoration: none;
-
-    padding: 3px 0 3px 0;
-    background-color: rgb(59, 94, 220);
-} */
-
-.desktopNav {
-    display: static;
-    text-align: right;
+.navSubtitle:hover::after {
+    transform: scaleX(1);
 }
 
-.mobileNav {
-    display: none;
+.navLink {
+    margin-left: 44px;
+    max-width: 200px;
+    overflow: hidden;
+    white-space: nowrap;
+
+    transition: max-width 0.5s ease, opacity 0.35s ease, margin-left 0.5s ease;
 }
 
-@media (max-width: 850px) {
-    .navBox {
-        height: 14vh;
-        width: 90%;
+/* Once ON a photography page the header leaves the flow — at the exact same
+   coordinates, so nothing visibly moves. During the outgoing transition
+   (leaving) it stays in flow so the body below doesn't jump. */
+.headerSide {
+    position: absolute;
+    top: 148px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: min(90%, 552px);
+    margin: 0;
+}
 
-        top: 0;
-        left: 5%;
+/* Nav links fade while collapsing, sliding left with the trees. */
+.navLinkHidden {
+    max-width: 0;
+    opacity: 0;
+    margin-left: 0;
+    pointer-events: none;
+}
+
+/* Photography series links — fading in one after another
+   (stagger set inline via animation-delay). */
+.subRow {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0;
+    margin-top: 20px;
+}
+
+/* The series stack sits under the slid-over trees. */
+.headerSide .subRow {
+    transform: translateX(-180px);
+}
+
+.subLink {
+    font-size: 0.95em;
+    line-height: 1.4;
+
+    opacity: 0;
+    animation: subFade 0.9s ease both;
+}
+
+@keyframes subFade {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+/* The current page keeps the blue underline. */
+.currentPage::after {
+    transform: scaleX(1);
+}
+
+/* Mid-size screens: tighten spacing so the bar fits in the column. */
+@media (max-width: 1150px) {
+    .navLink {
+        margin-left: 24px;
     }
 
-    .desktopNav {
-        display: none;
-    }
-
-    .mobileNav {
-        height: 100%;
-        width: 100%;
-
-        display: flex;
-        gap: 20px;
-        justify-content: flex-end;
-        align-items: flex-end;
+    .wordmark {
+        font-size: 1.25em;
     }
 }
-  
+
+@media (max-width: 950px) {
+    .header {
+        margin: 24px auto 0;
+    }
+
+    /* Not enough room for a side box — fall back to in-flow header. */
+    .headerSide {
+        position: static;
+        transform: none;
+        width: min(90%, 552px);
+        margin: 24px auto 0;
+    }
+
+    .collapsedFx .wordmark,
+    .headerSide .subRow {
+        transform: none;
+    }
+
+    .wordmark {
+        font-size: 1.2em;
+    }
+
+    .navSubtitle {
+        font-size: 1em;
+    }
+
+    .navLink {
+        margin-left: 20px;
+    }
+}

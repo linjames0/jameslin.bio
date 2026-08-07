@@ -19,7 +19,14 @@ export const series = {
     documentary: [
         ...Array.from({ length: 8 }, (_, i) => `jmail bots - ${String(i + 1).padStart(2, "0")}.png`),
         "jmail.png",
-        ...Array.from({ length: 11 }, (_, i) => `shoots - ${String(i + 1).padStart(3, "0")}.png`),
+        "shoots - 001.png",
+        "shoots - 002.png",
+        "shoots - 003.png",
+        "shoots - 004.png",
+        "shoots - 005.png",
+        "shoots - 008.png",
+        "shoots - 010.png",
+        "shoots - 011.png",
         "dedalus - 01.png",
     ].map(toPhoto),
 };

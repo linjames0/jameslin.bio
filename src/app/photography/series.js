@@ -12,12 +12,19 @@ export const series = {
     origins: [
         ...Array.from({ length: 10 }, (_, i) => `origins - ${String(i + 1).padStart(3, "0")}.png`),
         "mini - 01.png",
+        "jmail bots - 04.png",
     ].map(toPhoto),
 
     hotfire: Array.from({ length: 11 }, (_, i) => `Hotfire - ${String(i + 1).padStart(3, "0")}.png`).map(toPhoto),
 
     documentary: [
-        ...Array.from({ length: 8 }, (_, i) => `jmail bots - ${String(i + 1).padStart(2, "0")}.png`),
+        "jmail bots - 01.png",
+        "jmail bots - 02.png",
+        "jmail bots - 03.png",
+        "jmail bots - 05.png",
+        "jmail bots - 06.png",
+        "jmail bots - 07.png",
+        "jmail bots - 08.png",
         "jmail.png",
         "shoots - 001.png",
         "shoots - 002.png",

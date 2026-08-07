@@ -122,12 +122,19 @@
 }
 
 .viewerPhoto {
-    width: 100% !important;
+    /* spill 20% past the text column's right edge for presence */
+    width: 120% !important;
     height: auto !important;
     display: block;
 
     opacity: 0;
     transition: opacity 0.5s ease;
+}
+
+@media (max-width: 950px) {
+    .viewerPhoto {
+        width: 100% !important;
+    }
 }
 
 .viewerPhotoLoaded {

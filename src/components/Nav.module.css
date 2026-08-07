@@ -209,9 +209,13 @@
         margin: 24px auto 0;
     }
 
-    /* Not enough room for a side box — fall back to in-flow header. */
+    /* Not enough room for a side box — fall back to an in-flow header.
+       Keep it positioned (relative) so its z-index holds it above the
+       fixed full-screen hero. */
     .headerSide {
-        position: static;
+        position: relative;
+        left: auto;
+        top: auto;
         transform: none;
         width: min(90%, 552px);
         margin: 24px auto 0;

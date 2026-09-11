@@ -19,6 +19,7 @@ export default function Nav() {
     const [leaving, setLeaving] = useState(false);
 
     const photoSeries = [
+        { slug: 'new-york', label: 'New York' },
         { slug: 'origins', label: 'Origins' },
         { slug: 'hotfire', label: 'Hotfire' },
         { slug: 'documentary', label: 'Documentary' },

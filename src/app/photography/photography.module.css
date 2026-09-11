@@ -131,9 +131,19 @@
     transition: opacity 0.5s ease;
 }
 
+/* Vertical photos run to 70% of the landscape height, so they don't dwarf
+   the rest of the series (the width follows, keeping the aspect ratio). */
+.viewerPhotoPortrait {
+    width: 84% !important;
+}
+
 @media (max-width: 950px) {
     .viewerPhoto {
         width: 100% !important;
+    }
+
+    .viewerPhotoPortrait {
+        width: 70% !important;
     }
 }
 

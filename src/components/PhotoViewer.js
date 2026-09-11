@@ -9,6 +9,8 @@ import styles from "../app/photography/photography.module.css";
 export default function PhotoViewer({ photos }) {
     const [index, setIndex] = useState(0);
     const [loaded, setLoaded] = useState(false);
+    // Vertical photos would tower over the page at the landscape width.
+    const [portrait, setPortrait] = useState(false);
 
     const go = useCallback(
         (delta) => {
@@ -52,8 +54,11 @@ export default function PhotoViewer({ photos }) {
                 sizes="40vw"
                 priority
                 unoptimized
-                onLoad={() => setLoaded(true)}
-                className={`${styles.viewerPhoto} ${loaded ? styles.viewerPhotoLoaded : ""}`}
+                onLoad={(e) => {
+                    setPortrait(e.currentTarget.naturalHeight > e.currentTarget.naturalWidth);
+                    setLoaded(true);
+                }}
+                className={`${styles.viewerPhoto} ${portrait ? styles.viewerPhotoPortrait : ""} ${loaded ? styles.viewerPhotoLoaded : ""}`}
             />
         </div>
     );

@@ -9,7 +9,9 @@ const toPhoto = (filename) => ({
 
 // Photo series, each shown on its own page under /photography.
 export const series = {
-    newYork: Array.from({ length: 19 }, (_, i) => `NEW YORK ${String(i).padStart(2, "0")}.png`).map(toPhoto),
+    newYork: Array.from({ length: 15 }, (_, i) => `NEW YORK ${String(i).padStart(2, "0")}.png`).map(toPhoto),
+
+    newYorkColor: Array.from({ length: 12 }, (_, i) => `NEW YORK COLOR ${String(i).padStart(2, "0")}.png`).map(toPhoto),
 
     origins: [
         ...Array.from({ length: 10 }, (_, i) => `origins - ${String(i + 1).padStart(3, "0")}.png`),

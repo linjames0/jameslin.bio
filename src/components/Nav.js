@@ -20,6 +20,7 @@ export default function Nav() {
 
     const photoSeries = [
         { slug: 'new-york', label: 'New York' },
+        { slug: 'new-york-color', label: 'New York Color' },
         { slug: 'origins', label: 'Origins' },
         { slug: 'hotfire', label: 'Hotfire' },
         { slug: 'documentary', label: 'Documentary' },
